@@ -6,27 +6,27 @@ Rachel Liu | DH-110 | Fall 2022
 
 ### About the project
 
-According to the United Nations, the number of seniors (65+) is expected to double to 1.5 billion by 2050 globally. Despite seniors being one of the fastest-growing and wealthiest demographics in wealthy countries, many digital products fail to meet senior accessibility needs and have made them feel excluded from an online world that is unfriendly to those with bad eyesight, declined dexterity, and unfamiliarity with the web. In particular, health is a major concern among seniors, and we should ensure that information is accessible to them. For this project, I hope to demonstrate how we can improve user (patient) experiences on websites with health, healthcare, and patient information so that seniors can maintain their well-being. Additionally, by designing for their accessibility, we are designing for everyone's accessibility.
+Building sustainable communities is arguably one of the most important initiatives to ensure our future success. Unfortunately, the path to sustainability is shrouded in mystery and blocked by seemingly unattainable goals. If we truly want to value sustainability, we must begin by educating and engaging our youth. This project aims to make sustainable living accessible by creating a space where students can compete against others in exciting challenges for coveted prizes. This mobile application will not only equip the next generation of city-builders with knowledge on how to build a sustainable city but will generate a community of like-minded people as well. 
 
 ### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
 
 | Number | Heuristic | Description |
 |---|---|---|
-| 1 | Visibility of System Status | Users should always be informed about what is going on and should be given appropriate feedback to their actions |
-| 2 | Match Between System and the Real World | Use concepts and language that are familiar and logical to the user |
-| 3 | User Control and Freedom | Allow users to make mistakes; give them options to undo and redo tasks |
-| 4 | Consistency and Standards | Follow conventions and make sure design is consistent across the platform |
-| 5 | Error Prevention | Get rid of error-prone conditions and provide users with safety nets for high-cost errors |
-| 6 | Recognition Rather Than Recall | Minimize user's memory load by giving them suggestions and help in context |
+| 1 | Visibility of System Status | Users should always be informed regarding the status of the app |
+| 2 | Match Between System and the Real World | Users should be able to intuitively use the app as if completing a real-life task |
+| 3 | User Control and Freedom | Users should be provided an easy way out |
+| 4 | Consistency and Standards | Users should experience similar situations similarly |
+| 5 | Error Prevention | Users should not experience conditions in which errors are prone to occur |
+| 6 | Recognition Rather Than Recall | Users should not have difficulty retrieving relevant information |
 | 7 | Flexibility and Efficiency of Use | Provide multiple ways to perform a task to make the platform accessible to all users |
-| 8 | Aesthetic and Minimalist Design | Provide only relevant content and features |
-| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Tell users what the problem is and provide suggestions to fix it |
-| 10 | Help and Documentation | Supply users with extra help to complete their tasks |
+| 8 | Aesthetic and Minimalist Design | Users should not experience visual elements that distract them from their task |
+| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Users should understand what went wrong if an error occurs |
+| 10 | Help and Documentation | Users should be able to find and recieve help if needed |
 
 
 ### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Problems by Nielsen Norman Group
 
-The following rating scale can be used to evaluate the severity of usability issues:
+The following rating scale was used to evaluate severity of usability issues:
 | Rating | Description |
 |---|---|
 | 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |
@@ -35,12 +35,12 @@ The following rating scale can be used to evaluate the severity of usability iss
 
 Ratings are displayed in parentheses after each usability issue.
 
-## Website 1: [Mayo Clinic](https://www.mayoclinic.org/)
+## Application 1: [Earth Rewards](https://earthrewards.net/)
 
 ### About
-[Mayo Clinic](https://www.mayoclinic.org/) is a non-profit American medical organization dedicated to clinical practice, education, and research, and whose location in Minnesota has been recognized as the best hospital of 2020-2021 by U.S. News & World Report. Mayo Clinic is a trusted source of medical information about diseases and conditions, possible causes for symptoms, drugs and supplements, tests and procedures, and healthy living. The website is also used by patients to make appointments, access their patient account, and find information about receiving care. 
+[Earth Rewards](https://earthrewards.net/) is a carbon footprint calculator application that encourages purchases from listed retailers to offset users' own carbon footprint. Although I do not align with the intentions of this app, as it is inherently for-profit, I believe the point system is a similar structure to the one I had in mind for my final project. 
 
-The richness of health information and breadth of features on the Mayo Clinic website can be both valuable and overwhelming. My goal is to preserve the value while streamlining the user's ability to navigate throughout the website.
+*Note: The application must be downloaded to compare comments listed below to page-specific UI/UX. For ease, I have included screenshots where possible. 
 
 ### Heuristic Evaluation
 
