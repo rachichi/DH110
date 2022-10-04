@@ -40,83 +40,90 @@ Ratings are displayed in parentheses after each usability issue.
 ### About
 [Earth Rewards](https://earthrewards.net/) is a carbon footprint calculator application that encourages purchases from listed retailers to offset users' own carbon footprint. Although I do not align with the intentions of this app, as it is inherently for-profit, I believe the point system is a similar structure to the one I had in mind for my final project. 
 
-*Note: The application must be downloaded to compare comments listed below to page-specific UI/UX. For ease, I have included screenshots where possible. 
+<i> Note: The application must be downloaded to compare comments listed below to page-specific UI/UX. For ease, I have included screenshots where possible. <i> 
 
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* As you type in the search bar, possible options are not immediately displayed, which makes it difficult for the user to understand how the system is responding to their query (results start displaying only after 3 letters are inputted, but users expect it to be instantaneous). Furthermore, the recommended results shown are sometimes almost completely unrelated to health or medical information, which doesn't help the user. (2)
+* Within the <i> My balance <i> section, the “Transaction is being processed…” notification is not automatically updated when complete. It is up to the user to reload the page to see any changes in status.  (?)
+
+* Similarly, within the <i> Retailers <i> section, the response from marking a store as “favorited” is not immediate and may lead to rapid, frustrated clicking from the user. (?)
 
 <p align="center">
   <img src="../Images/search-query-2.PNG" alt="Search query no immediate results" width = "300px"/>
   <img src="../Images/search-query.png" alt="Search query irrelevant results" width = "300px"/>
 </p>
 
-> *Recommendation: Display results as the user types so that the user stays engaged, making it more likely they will continue to explore the site to find the information they need. Optimize search results so that they are relevant to health and medical information.*
+> *Recommendation: Display continuous and immediate updates so users are always aware of current app status. Within the <i> My balance <i> section, this means automatic updating the page before users feel the need to manually reload. On the other hand, on the <i> Retailers <i> page, speed up feedback time in response to clicking the heart.*
 
-* Within each major step in the appointment-making process, there are a bunch of other steps. Because there is little visual representation of progress, users could be thwarted by the number of times they have to click "Continue". There is an outline on the left that changes color for the *major* steps completed, but at the beginning of each major step, the whole screen turns blue, making the contrast too low to see their progress (1):
+* The structure of the app is not clear. Besides the home page, each individual section has no visible tie back to the previous. (?)
 
 <p align="center">
   <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
 </p>
 
-* There is also a percentage completed shown at the top left as the total progress indicator, but it is so small that users probably wouldn't notice it at first glance. (1)
-![Appointment Request Progress Capture](../Images/appointment-request-progress-2.PNG)
-
-> *Recommendation: Don't make the whole page blue at each major step; keep the page gray/white to ensure contrast in the progress tracker. Also, create a visual representation of progress by numbering the steps and including arrows. Implement a progress bar that slides forward as the user completes the information.*
+> *Recommendation: Create a more effective menu bar by optimizing use of icons, decreasing menu size, and apply it to all pages possible so users are always aware of their location in the application.*
 
 #### 2. Match Between System and the Real World
-* Although it's not a big issue, the placeholder text of the search bar is "Search Mayo Clinic", which seems like a missed opportunity to guide users in the right direction or express something about the brand, especially since this is a very large website. (1)
+* There is an overload of jargon and various metrics on the page with no simple method to understand them. Within one section, vocabulary includes “Blockchain,” “Offset CO2,” “Pre-Populated Offsets,” “Custom Offset,” “Quick Offsets,” and “Personal Offsets.” Metrics include “Kg of CO2,” “pints,” “Liters,” “dollars,” “points,” E-missions,” “Lessons,” “Impacts,” and “Earth Rewards.” The feeling of overwhelmingness is immediate and obvious. (?)
 
 <p align="center">
   <img src="../Images/search-bar.PNG" alt="Homepage search bar" width = "300px"/>
 </p>
 
-> *Recommendation: Consider modifying the placeholder text based on what would be most helpful for users' existing habits. Perhaps something like 'Search health topics, conditions, doctors' or whatever is most relevant to most users.*
+> *Recommendation: Decrease vocabulary to increase learnability. For example, establish <i> one <i> obvious point system, such as "Earth Rewards", and stick with it. For example, Khan Academy (energy points) and Reddit (Reddit karma) are websites/webapps which have found success in using a single point system.*
 
 #### 3. User Control and Freedom
-* After searching for something in the search bar, the user's query is erased. If the user doesn't find the information they were looking for, which could happen often (especially since the recommended results don't immediately appear and may be irrelevant), they have to retype their query all over again. (2)
+* When accidental pop-ups occur, a user's automatic and intuitive action is to click outside of the popup to quickly remove themselves from the situation. Unfortunately, in this app, clicking on the darkened area around the pop-up does nothing but cause frustration. (1)
 
-> *Recommendation: Don't erase the user's query after they hit Search so that they can slightly modify their query if necessary.*
+> *Recommendation: Provide users with an easy emergency exit by making the darkened area around the pop-up a clickable area to exit. *
 
 #### 4. Consistency and Standards
-* Their page for COVID-19 and vaccine information is completely different from their normal website, which could confuse users because it seems like a separate website. Also, the navigation is hidden in a hamburger menu on the top-right, which is both less discoverable and unconventional. (3)
+* There are a few small standardization issues within the app. Firstly, clicking the “x” on the right side of a search bar typically clears existing text within the search space. In this app, that “x” exits the user out of the search area and collapses the keyboard. Secondly, it is standard to expect that clicking on a user's profile picture allows them to change it. Thirdly, clicking a section icon more than once typically scrolls users up to the top of a section. This app does not fulfill any of the mentioned expectations.(2)
 
 <p align="center">
   <img src="../Images/homepage.PNG" alt="Mayo Clinic homepage"/>
   <img src="../Images/covid-19-page.PNG" alt="Mayo Clinic COVID-19 page"/>
 </p>
 
-> *Recommendation: Maintain consistency with the main website so that users understand they are still in the same space. Show navigation at the top rather than hiding it in the hamburger menu.*
+> *Recommendation: There exists quite a few instances within the app where users expect outcomes that are not received. First, re-establish functionality to the status-quo by allowing the “x” on the search bar to clear the text in the search space. Second, make the profile picture clickable along with a popup which allows quick profile photo changes. Thirdly, automatically route users to the top of the page, along with an automatic reload when the section icon is clicked.*
 
-* When you click Request Appointment, you cannot go back to the homepage by clicking the logo on the top-left corner, which can be frustrating for many users who expect that they can orient to the homepage by clicking the logo. I observed the same pattern across random pages of the website (including the Trouble Signing Up? page for account creation). The logo at the top left corner is probably the most common design pattern and needs to be upheld throughout the website. (3)
+* The white space between a menu item and the edge of the phone differs between pages and seemingly at random.  (3)
 
-> *Recommendation: Make sure that clicking the logo will go back to the homepage on every page. In general, make sure every functionality is consistent throughout the website so that users don't get 'lost' on a certain page.*
+> *Recommendation: Design with visual consistency. All pages should have the same or similar formats, colors, and feel. This will increase trust in the product.*
 
 #### 5. Error Prevention
-* Mayo Clinic is currently not accepting online requests for COVID-19 vaccine appointments. Although they provide a warning message above the button to request an appointment, users can easily skip this message. In the following modal window, users would likely randomly click "Yes" or "No" without regard to what the message is because they are habituated to getting out of the dialog window as fast as possible. (2)
+* In the “Lessons” section, users can learn about how certain actions contribute to sustainability. Yet it is easy to accidentally swipe out of a lesson and lose progress. 
 
 <p align="center">
   <img src="../Images/appointment-modal-window.PNG" alt="Modal window asking about COVID-19 vaccine" width="700px"/>
 </p>
 
-> *Recommendation: Get rid of the modal window and provide radio buttons to get users to make a deliberate choice between "Yes" and "No". It would also be helpful to display the error message again if the user clicks "Yes" rather than force them onto a page that doesn't explain the error they made.*
+> *Recommendation: Despite providing users with a mark that represents progress, users are not able to swipe left of right to continue forwards/backwards with the lesson. Enable users to use the swipe function when swiping in the middle of the page, and allow them to swipe out (with a warning pop up that progress will be lost) only when doing a full swipe from the edge of the page.*
+  
+* While clicking around the app I accidentally clicked the “Log out” button. Without warning, I was automatically logged out of my account. Having to go through the whole sign in process again is an immediate deterrent.  
+
+<p align="center">
+  <img src="../Images/appointment-modal-window.PNG" alt="Modal window asking about COVID-19 vaccine" width="700px"/>
+</p>
+
+> *Recommendation: Provide pop up messages which warn users about outcomes of a possible accidetal action and provides an option to return to the application. This is important because repetitive log-in processes are cumbersome and frustrating.*
 
 #### 6. Recognition Rather Than Recall
-* On the health information page, the user must search by first letter (A-Z). This makes it difficult for users who may not know or remember the name of the disease or condition to access information about it. (2)
+* The Search function acts more like a filter rather than an actual search function. Storefront icons dissapear as letters are typed but it is not obvious what stores are still available. 
 
 <p align="center">
   <img src="../Images/diseases-and-conditions.PNG" alt="Diseases and conditions page" width="500px"/>
 </p>
 
-> *Recommendation: Provide some conditions or diseases that are often treated at Mayo Clinic. Also guide users to the symptom checker, where they can select from a list of symptoms and generate predicted diseases and conditions associated with those symptoms. In general, Mayo Clinic should better emphasize their symptom checker feature because it can be a great resource for those concerned with their health, like many seniors. (However, emphasize that it is necessary to check with a healthcare provider.)*
+> *Recommendation: As a user types into the search bar, recommend stores in a clickable dropdown menu underneath.*
 
 #### 7. Flexibility and Efficiency of Use
-* Because the magnifying glass is within the search box, the user may not recognize that there is another way to trigger the search action (other than Enter). (1)
+* The app is static and unchanging. Assuming a user has fulfilled the lengthy learning curve in order to learn how to use this app, there are no options for customization if it is wanted or needed
 
 ![Homepage of Mayo Clinic showing search box](../Images/homepage.PNG)
 
-> *Recommendation: Create a separate button for searching that includes the magnifying glass so that the user easily recognizes that it can be clicked to Search.*
+> *Recommendation: In addition to currently existing sections in the "Edit Profile" section, create a section for visual *
 
 * On the symptom checker, the user needs to select from a large list of symptoms, which is cumbersome and overwhelming. (3)
 ![Symptom Checker Step 1 Capture](../Images/symptom-checker-step-1.PNG)
