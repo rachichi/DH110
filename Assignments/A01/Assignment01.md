@@ -170,10 +170,6 @@ Similar to the previous list of recommendations, my goal with this application i
 #### 1. Visibility of System Status
 * Though each of the 5 sections at the bottom of the app, “Activity,” “Challenge,” “Buzz,” “Notifications,” and “Profile” are present no matter what internal page the users are on, there is no obvious landing page. (2)
 
-<p align="center">
-  <img src="../A01/bu_jargon.png" alt="Unnecessary Colors" width = "300px"/>
-</p>
-
 > *Recommendation: Create an obvious landing page that users would want to spend most of their time on.*
 
 #### 2. Match Between System and the Real World
