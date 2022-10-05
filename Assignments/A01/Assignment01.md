@@ -79,10 +79,6 @@ My goal with the provided recommendations is to not necessarily alter the intent
 #### 4. Consistency and Standards
 * There are a few small standardization issues within the app. Firstly, clicking the “x” on the right side of a search bar typically clears existing text within the search space. In this app, that “x” exits the user out of the search area and collapses the keyboard. Secondly, it is standard to expect that clicking on a user's profile picture allows them to change it. Thirdly, clicking a section icon more than once typically scrolls users up to the top of a section. This app does not fulfill any of the mentioned expectations.(2)
 
-<p align="center">
-  <img src="../A01/er_search.png" alt="Search function" width = "300px"/>
-</p>
-
 > *Recommendation: There exists quite a few instances within the app where users expect outcomes that are not received. First, re-establish functionality to the status-quo by allowing the “x” on the search bar to clear the text in the search space. Second, make the profile picture clickable along with a popup which allows quick profile photo changes. Thirdly, automatically route users to the top of the page, along with an automatic reload when the section icon is clicked.*
 
 * The white space between a menu item and the edge of the phone differs between pages and seemingly at random. (2)
@@ -109,6 +105,10 @@ My goal with the provided recommendations is to not necessarily alter the intent
 
 #### 6. Recognition Rather Than Recall
 * The Search function acts more like a filter rather than an actual search function. Storefront icons dissapear as letters are typed but it is not obvious what stores are still available. (1)
+
+<p align="center">
+  <img src="../A01/er_search.png" alt="Search function" width = "300px"/>
+</p>
 
 > *Recommendation: As a user types into the search bar, recommend stores in a clickable dropdown menu underneath.*
 
