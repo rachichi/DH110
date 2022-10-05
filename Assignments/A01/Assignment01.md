@@ -65,9 +65,9 @@ My goal with the provided recommendations is to not necessarily alter the intent
 * There is an overload of jargon and various metrics on the page with no simple method to understand them. Within one section, vocabulary includes “Blockchain,” “Offset CO2,” “Pre-Populated Offsets,” “Custom Offset,” “Quick Offsets,” and “Personal Offsets.” Metrics include “Kg of CO2,” “pints,” “Liters,” “dollars,” “points,” E-missions,” “Lessons,” “Impacts,” and “Earth Rewards.” The feeling of overwhelmingness is immediate and obvious. (3)
 
 <p align="center">
-  <img src="../A01/er_jargon1.PNG" alt="Jargon1" width = "300px"/>
-  <img src="../A01/er_jargon2.PNG" alt="Jargon2" width = "300px"/>
-  <img src="../A01/er_jargon3.PNG" alt="Jargon3" width = "300px"/>
+  <img src="../A01/er_jargon1.png" alt="Jargon1" width = "300px"/>
+  <img src="../A01/er_jargon2.png" alt="Jargon2" width = "300px"/>
+  <img src="../A01/er_jargon3.png" alt="Jargon3" width = "300px"/>
 </p>
 
 > *Recommendation: Decrease vocabulary to increase learnability. For example, establish one obvious point system, such as "Earth Rewards", and stick with it. For example, Khan Academy (energy points) and Reddit (Reddit karma) are websites/webapps which have found success in using a single point system.*
