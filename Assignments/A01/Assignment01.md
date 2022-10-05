@@ -35,10 +35,12 @@ The following rating scale was used to evaluate severity of usability issues:
 
 Ratings are displayed in parentheses after each usability issue.
 
-## Application 1: [Earth Rewards](https://earthrewards.net/)
+## Application 1: [Earth Rewards](https://play.google.com/store/apps/details?id=net.earthrewards.app&hl=en_US&gl=US)
 
 ### About
-[Earth Rewards](https://earthrewards.net/) is a carbon footprint calculator application that encourages purchases from listed retailers to offset users' own carbon footprint. Although I do not align with the intentions of this app, as it is inherently for-profit, I believe the point system is a similar structure to the one I had in mind for my final project. 
+[Earth Rewards](https://earthrewards.net/) is a carbon footprint calculator application that encourages purchases from listed retailers to offset users' own carbon footprint. This app claims to make it easy to "start living a more eco-friendly and sustainable lifestyle," according to the description on their Google Play download page. Although I do not align with the intentions of this app, as it is inherently for-profit, I believe the point system is a similar structure to the one I had in mind for my final project. 
+
+My goal with the provided recommendations is to not necessarily alter the intentions of this application, but to minimize the learning curve needed for users to absorb content.
 
 <i> Note: The application must be downloaded to compare comments listed below to page-specific UI/UX. For ease, I have included screenshots where possible. </i> 
 
@@ -126,7 +128,7 @@ Ratings are displayed in parentheses after each usability issue.
 > *Recommendation: In addition to currently existing sections in the "Edit Profile" section, create a section for customization and accessibility where users can toggle options on and off.*
 
 #### 8. Aesthetic and Minimalist Design
-*Icons used in the “Offset” section are designed with a variety of unnecessary colors. At first glance, it seems as if the colors contribute to the categorization of the items on the page, but further scrutiny shows it does not. 
+* Icons used in the “Offset” section are designed with a variety of unnecessary colors. At first glance, it seems as if the colors contribute to the categorization of the items on the page, but further scrutiny shows it does not. 
 
 <p align="center">
   <img src="../Images/nav-care-at-mayo-clinic.PNG" alt="Navigation menu (Care at Mayo Clinic)" width="250px"/>
@@ -153,52 +155,52 @@ Ratings are displayed in parentheses after each usability issue.
 
 ### Overall Assessment
 
-<mark> NOT COMPLETE!! </mark>
+From an initial glance, the app looks aesthetic and professional. Stakeholders would not expect drop off to occur until the user begins interacting with the app, as they realize that quite an intense learning curve is required to consume content. Majority of the offered recommendations focus on improving the user experience, rather than interface design elements.   
 
-## Website 2: [Chinatown Service Center (CSC)](https://www.cscla.org/)
+## Application 2: [sustainability](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug.pbj.bostonu&hl=en_US&gl=US)
 
 ### About
-[Chinatown Service Center (CSC)](https://www.cscla.org/) is a community-based Chinese-American health and human services organization that advocates for and provides services to immigrants and other communities. CSC's resources, including a Community Health Center that provides comprehensive healthcare, dental services, and behavioral services, are available in various Chinese dialects like Cantonese, Mandarin, Toishan, and Chiu Jou, as well as other languages like Vietnamese and Spanish.
+[sustainability](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug.pbj.bostonu&hl=en_US&gl=US) is an application created for use by Boston University students. 
 
-My goal is to make their website much more usable, especially for primary users of CSC's services, including low-income, non-English speaking, and elderly users.
+<i> Note: The application must be downloaded to compare comments listed below to page-specific UI/UX. For ease, I have included screenshots where possible. </i> 
 
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* When a user hovers over the top navigation menu, only the "Home" button changes color. The rest of the menu items do not provide color feedback, and simply displays the dropdown for each. Furthermore, it takes a while to load each dropdown at times. Users would have difficulty understanding whether the website is responding to their movement or clicks. There is, however, a color change to help the user recognize the page they are currently on. (3)
+* Though each of the 5 sections at the bottom of the app, “Activity,” “Challenge,” “Buzz,” “Notifications,” and “Profile” are present no matter what internal page the users are on, there is no obvious landing page.
 
 <p align="center">
   <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
 </p>
 
-> *Recommendation: Make sure that there is some kind of feedback (e.g. color change) when the cursor hovers over each menu item.*
+> *Recommendation: Create an obvious landing page that users would want to spend most of their time on.*
 
 #### 2. Match Between System and the Real World
-* Some of the icons for the Community Health Center page do not entirely match our perception for each category. The happy face doesn't really reflect Behavioral Health and the Medical Clinic icon just looks like a house (the medical cross is very small). The tooth is also difficult to see when Dental Clinic is selected (and inconsistent with the other icons). (1)
+* There is quite a lot of new jargon which are not well defined. Points, Buzzes, Actions, Badges, and Medals seems like quite a few metrics. Users may be unsure which one they are trying to increase. 
 
 <p align="center">
   <img src="../Images/community-health-center-icons.PNG" alt="Community Health Center icons"/>
 </p>
 
-*Recommendation: Use more literal and commonly accepted icons for the Behavioral Health and Medical Clinic icons (see examples [here](https://thenounproject.com/term/mental-health/3306335/) and [here](https://thenounproject.com/search/?q=medical&i=2468231)). Make sure icon styles are consistent as well.*
+*Recommendation: Decrease the vocabulary for sake of an easier learning curve. Have a singular point system where users immediately know what they are attempting to increase.*
 
 #### 3. User Control and Freedom
-* The image carousel on the homepage moves very slowly and also responds to clicks very slowly, so users are surprised when they actually animate. It can be frustrating if users want to look through the gallery at their pace. (3)
-* The image carousel on the Community Health Center page auto-forwards and moves much too quickly, to the point that clicking the small arrow controls doesn't allow the user to view the image they want to see (unless they realize they can click the image to see it in full screen), which is very frustrating. The carousel looks almost like an advertisement, which means it will likely be ignored. (3)
+* Clicking the “Join Challenge” button threw me into a loading loop with no easy way to exit. I ended up having to swipe out of the app to remove myself from the situation.
 
-> *Recommendation: Test users to see what the right timing for carousels would be. There should be enough time for users to read the text and process the information on each image. Use bigger arrows so that users can easily click them, and make sure the carousel is responsive to clicks. Add a visual indicator to show where the user is in the image gallery.*
+> *Recommendation: Yes, errors and bugs happen, but a system should be in place so that the page “gives up,” shoots users an error message to try again later, and automatically moves users away from the buggy page.*
 
 #### 4. Consistency and Standards
-* The top navigation menu is not consistent with normal webpages, which makes it difficult to use and grow accustomed to. (3)
+* It is typical for a full swipe left or right to undo or redo a page. Weirdly enough, this action is supported by only select pages on this application.
 
 <p align="center">
   <img src="../Images/nav-bar.PNG" alt="Top Navigation Menu"/>
 </p>
 
-> *Recommendation: Reorganize the top navigation so that it complies with standards. For example, Hours & Locations can go under "About", Gala 2020 does not need to be displayed, and Vita 2021 should be kept under services (and should be renamed Free Tax Prep or something recognizable, since not everyone will know what VITA is).*
+> *Recommendation: This recommendation is annoying but necessary. Developers need to painstakingly check each page to make sure they all operate similarly. Provide users the option to swipe out of a page on every page*
 
 #### 5. Error Prevention
-* Phone numbers change based on which tab of the Community Health Center page the user is on. However, it is difficult to recognize this because these phone numbers aren't displayed below the tabs. It is easy for users to call the wrong number or send an email to the wrong email address. (3)
+* I accidentally “Followed” a user I do not know and was unable to unfollow.  
+* I accidentally posted a “Buzz” which acts a bit like a tweet. Two main issues came out of this action – findability and usability. Even after dedicating quite a bit of time to find this tweet (as it did not show up in the “Trending” page), there was no delete function once tweeted. What if I had mistakenly written something horrible? 
 
 <p align="center">
   <img src="../Images/behavioral-health-contact.PNG" alt="Contact information for Behavioral Health" width="550px"/>
@@ -206,61 +208,38 @@ My goal is to make their website much more usable, especially for primary users 
   <img src="../Images/dental-clinic-contact.PNG" alt="Contact information for Dental Clinic" width="550px"/>
 </p>
 
-> *Recommendation: Put the tabs above the content so that users know what information is relevant to which department. Put the contact information in a consistent and easy-to-find location for each tap. Alternatively, direct users to a contact page where they can easily find where they should contact.*
+> *Recommendation: Though icons are relatively large and difficult to accidentally click, there are actions I have done which I would like to reverse. By allowing a click to unfollow (like Instagram) and taking users to the page which they can find their “Buzz” post, users will be able to quickly reverse errors.*
 
 #### 6. Recognition Rather Than Recall
-* When you hover over the top navigation menu, there is no indication of which menu item's dropdown is being displayed, forcing users to recall which of the menu items they were looking at. This also makes it more difficult for users to remember how they got to a certain page in the future. (2)
+* I do not know nor remember how to achieve “Badges” or “Medals.” I expect that clicking on these sections within my profile would bring me to actions that would earn me these items. 
 
 <p align="center">
   <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
 </p>
 
-> *Recommendation: Connect the dropdown box with the menu item title to show that the dropdown is under that header.*
+> *Recommendation: Instead of expecting users to read through the FAQ to figure out how to fulfill the criteria to achieve the award, provide clickable greyed-out icons which pop-up a description and progress bar when touched.*
 
 #### 7. Flexibility and Efficiency of Use
-* There is no search bar on the website. Given the extent of content and resources they provide, it would be very helpful to be able to search keywords that will lead users to the information they are looking for. (2)
+* There is no easy method to scroll up to the top of the feed. I expect that clicking on the “Activity” icon a couple of times would do the trick, but it does not. 
 
-> *Recommendation: Implement a search function to allow users another option to efficiently navigate through the website.*
-
-* On the homepage, the first image is about free COVID-19 vaccines. The image, however, is not clickable and does not lead to another page with the details, as one would expect. Instead, the user must look through the website to find the full image/pdf. (3)
-
-<p align="center">
-  <img src="../Images/csc-homepage.PNG" alt="CSC homepage"/>
-</p>
-
-* I was able to find it under "Upcoming Events" at the bottom of the homepage, where users are unlikely to scroll to. Even then, the information was elusive - the carousel constantly autorotates through random images/pdfs of different events, and the only way to navigate through them is through the left and right arrow keys. Furthermore, although there is an Events category under "More" in the top navigation menu, it is not clickable. (3)
-
-<p align="center">
-  <img src="../Images/upcoming-events-2.PNG" alt="Upcoming Events carousel with free vaccine event information"/>
-</p>
-
-> *Recommendation: Because these free events are an integral part of CSC services, it makes sense to put a working Events link in the top navigation menu. On the Events page, separate upcoming events from past events. If possible, provide the information directly on the page rather than in image or pdf format so that users don't have to open another tab or window to view the information. Organize events by category, clearly provide dates and times, show relevant pictures.*
+> *Recommendation: I am used to automatic responses when clicking through an app quickly. Clicking on a certain icon more than a couple time bring users to the top of the feed in combination with an automatic reload.*
 
 #### 8. Aesthetics and Minimalist Design
-* Throughout the website, we see an unappealing interface due to incorrect placement of features, inconsistent fonts, colors, and other design aspects, low-quality images, cluttered and conflicting elements, and web developer mistakes. Altogether, the website is confusing for any user and lowers the credibility of the organization. The Community Health Center homepage, in particular, demonstrates this well. (3)
+* There are new icons and vocabulary for every activity. This is excessive and confusing. I am unsure regarding the relevancy of any of these items
 
 ![CSC Community Health Center homepage](../Images/community-health-center-homepage.PNG)
 
-> *Recommendation: Firstly, we need to fix the web developer mistakes so that the features are at least visible. For instance, the language switch needs to be fully visible so that users know they can switch the language of the website (important for the large, nonnative English-speaking user base). Next, de-clutter the website by reorganizing the information presented. For example, it is unnecessary to place the Community Health Center description at the beginning of every tab's page; use that real estate for the menu itself. Lastly, make sure that a design guideline is used so that font sizes, spacing, and colors are appropriate for seniors and consistent throughout.*
-
-* The transparency of the tall fixed navigation menu dominates the layout of the page, and is very distracting. The menu is difficult to see and use, especially as users scroll down the page and there is text under the menu. (3)
-* The social media icons don't need to be fixed because they can interrupt content. The user base likely doesn't use much social media anyways. (1)
-
-> *Recommendation: Make the navigation menu opaque, and make it thinner by using the full width of the page and including only the necessary menu items so that more information can be displayed at a given time. Put social media icons in the footer, or at the top right if social media is actually used a lot by users (unlikely).*
+> *Recommendation: Decrease the icons and vocabulary.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* When the wrong account information is entered on the patient portal, there is no indication of whether the username or password was incorrect (or both). (1)
+* I accidentally created a profile to test out the app experience. It wasn’t until I confirmed the creation of the account did I realize there was no way to delete it.
 
-> *Recommendation: Tell users which field is incorrect so that they can only fix what's needed.*
+> *Recommendation: Allow for relatively easy deletion of an account (with relevant warnings, of course).*
 
 #### 10. Help and Documentation
-* Virtually no help or documentation is provided on the website; the email and phone number are prominently displayed, so it is assumed that people would simply call or email to make an appointment or request information. Common information (such as what insurance they accept, phone numbers for different departments, how to request a "token" to access the patient portal) is randomly dispersed throughout the website. (3)
+* The Help Center simply does not exist. When clicked, the page is blank and says “No articles found.”
 
-* A lot of information tends to be displayed via images and brochures, but it is difficult to find them. (3)
-
-> *Recommendation: Consolidate important general information on one page so that users are not completely confused. Provide a link to the contact page instead of randomly displaying the phone number and email. Provide more guidance to users on each page; there are many different departments, phone numbers, and locations. For example, who, where, and when exactly should a person contact if they are a new patient?*
+> *Recommendation: Keep all app pages up and running to establish customer trust.*
 
 ### Overall Assessment
-
-A lot of work needs to be done in many areas, but the areas to focus on first are probably flexibility & efficiency of use and aesthetics & minimalist design. Their health resources are invaluable to many low-income, immigrant families and their seniors, so being able to access that information easily should be prioritized. Also, an important feature to fix first is the visibility of the language switch, since many of their users may be Chinese monolinguals. The website is very harsh to look at in general, making it very difficult to use and makes CSC look unreliable. An update on aesthetics should therefore be one of their next steps.
 
