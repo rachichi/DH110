@@ -160,7 +160,9 @@ From an initial glance, the app looks aesthetic and professional. Stakeholders w
 ## Application 2: [sustainability](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug.pbj.bostonu&hl=en_US&gl=US)
 
 ### About
-[sustainability](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug.pbj.bostonu&hl=en_US&gl=US) is an application created for use by Boston University students. 
+[sustainability](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug.pbj.bostonu&hl=en_US&gl=US) is an application created for use by Boston University students. The goal of the app is the make students' daily habits more sustainable, and creates a community in which students can post images of themselves taking part in the sustainability movement, while gaining points and awards to compete with friends. The app not only educates students about how each action makes a difference, but also builds a community.
+
+Similar to the previous list of recommendations, my goal with this application is to minimize the learning curve needed for users to absorb content. Intentions are great but there are quite a few barriers users would hit before deciding to use this app frequently. 
 
 <i> Note: The application must be downloaded to compare comments listed below to page-specific UI/UX. For ease, I have included screenshots where possible. </i> 
 
