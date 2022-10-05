@@ -2,7 +2,7 @@
 
 Rachel Liu | DH-110 | Fall 2022
 
-## Tentative Title: Building Sustainability Through Competition
+## Tentative Title: Building Sustainability Through Friendly Competition
 
 ### About the project
 
