@@ -48,6 +48,10 @@ My goal with the provided recommendations is to not necessarily alter the intent
 
 <i> Note: The application must be downloaded to compare comments listed below to page-specific UI/UX. For ease, I have included screenshots where possible. </i> 
 
+### Overall Assessment
+
+From an initial glance, the app looks aesthetic and professional. Stakeholders would not expect drop off to occur until the user begins interacting with the app, as they realize that quite an intense learning curve is required to consume content. Majority of the offered recommendations focus on improving the user experience, rather than interface design elements.   
+
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
@@ -148,10 +152,6 @@ My goal with the provided recommendations is to not necessarily alter the intent
 
 > *Recommendation: Provide live chat function to provide immediate help to users. If there is no budget or bandwidth to do so, state the company email at the top of the FAQ, hyperlinked if users prefer to click. *
 
-### Overall Assessment
-
-From an initial glance, the app looks aesthetic and professional. Stakeholders would not expect drop off to occur until the user begins interacting with the app, as they realize that quite an intense learning curve is required to consume content. Majority of the offered recommendations focus on improving the user experience, rather than interface design elements.   
-
 ## Application 2: [sustainability](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug.pbj.bostonu&hl=en_US&gl=US)
 
 <p align="center">
@@ -164,6 +164,10 @@ From an initial glance, the app looks aesthetic and professional. Stakeholders w
 Similar to the previous list of recommendations, my goal with this application is to minimize the learning curve needed for users to absorb content. Intentions are great but there are quite a few barriers users would hit before deciding to use this app frequently. 
 
 <i> Note: The application must be downloaded to compare comments listed below to page-specific UI/UX. For ease, I have included screenshots where possible. </i> 
+
+### Overall Assessment
+
+Though the overall intention of the app is to create positive influences on sustanability within the BU campus, frustrations and confusions within the app may cause user drop-off which will decrease overall impact. By paying attention to details such as keeping all pages up and running, providing users control and flexibility, and simplifying the point system to shorten and flatten the learning curve, [sustainability's](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug.pbj.bostonu&hl=en_US&gl=US) impact on the campus will surley increase. 
 
 ### Heuristic Evaluation
 
@@ -230,7 +234,3 @@ Similar to the previous list of recommendations, my goal with this application i
 </p>
 
 > *Recommendation: Keep all app pages up and running to establish customer trust.*
-
-### Overall Assessment
-
-Though the overall intention of the app is to create positive influences on sustanability within the BU campus, frustrations and confusions within the app may cause user drop-off which will decrease overall impact. By paying attention to details such as keeping all pages up and running, providing users control and flexibility, and simplifying the point system to shorten and flatten the learning curve, [sustainability's](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug.pbj.bostonu&hl=en_US&gl=US) impact on the campus will surley increase. 
