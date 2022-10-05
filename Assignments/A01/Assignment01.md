@@ -37,6 +37,10 @@ Ratings are displayed in parentheses after each usability issue.
 
 ## Application 1: [Earth Rewards](https://play.google.com/store/apps/details?id=net.earthrewards.app&hl=en_US&gl=US)
 
+<p align="center">
+  <img src="../A01/er_landing.png" alt="Landing Page" width = "300px"/>
+</p>
+
 ### About
 [Earth Rewards](https://play.google.com/store/apps/details?id=net.earthrewards.app&hl=en_US&gl=US) is a carbon footprint calculator application that encourages purchases from listed retailers to offset users' own carbon footprint. This app claims to make it easy to "start living a more eco-friendly and sustainable lifestyle," according to the description on their Google Play download page. Although I do not align with the intentions of this app, as it is inherently for-profit, I believe the point system is a similar structure to the one I had in mind for my final project. 
 
