@@ -1,4 +1,4 @@
-# Tentative Title: Building Sustainability Through Competition
+# Tentative Title: Building Sustainability Through Friendly Competition
 
 Rachel Liu | DH-110 | Fall 2022
 
