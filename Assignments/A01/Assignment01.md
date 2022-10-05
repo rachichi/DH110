@@ -123,56 +123,37 @@ Ratings are displayed in parentheses after each usability issue.
 
 ![Homepage of Mayo Clinic showing search box](../Images/homepage.PNG)
 
-> *Recommendation: In addition to currently existing sections in the "Edit Profile" section, create a section for visual *
-
-* On the symptom checker, the user needs to select from a large list of symptoms, which is cumbersome and overwhelming. (3)
-![Symptom Checker Step 1 Capture](../Images/symptom-checker-step-1.PNG)
-
-> *Recommendation: Keep the list so that users can just recognize and click on recommendations, but implement a search feature at the top so that users can have the option to efficiently find the symptom they are experiencing. Also, group the symptoms into different categories to help users find the symptom they are looking for more easily.*
-
-* Under Billing, clicking the name of a category doesn't display the drop-down menu, but rather takes you to another page, which can be disorienting. The user must click the + sign to the right of the name to get the drop-down menu, which also requires dexterity and is therefore less accessible for seniors. (3)
-
-> *Recommendation: Make it possible to access the drop-down by clicking the name of the category.*
+> *Recommendation: In addition to currently existing sections in the "Edit Profile" section, create a section for customization and accessibility where users can toggle options on and off.*
 
 #### 8. Aesthetic and Minimalist Design
-* Because Mayo Clinic's website is very large, it can be difficult to consolidate all the information while ensuring the website is usable. However, there are some unnecessary elements that visually clutter the website. For instance, in the first dropdown of the navigation menu, there are many different links that are somewhat unnecessary - Clinical Trials is already under "Research" (it also makes more sense there), and "Digital Health Care" is almost the same thing as "Patient Online Services" to users (they only need to include one of these). (3)
+*Icons used in the “Offset” section are designed with a variety of unnecessary colors. At first glance, it seems as if the colors contribute to the categorization of the items on the page, but further scrutiny shows it does not. 
 
 <p align="center">
   <img src="../Images/nav-care-at-mayo-clinic.PNG" alt="Navigation menu (Care at Mayo Clinic)" width="250px"/>
   <img src="../Images/nav-research.PNG" alt="Navigation menu (Care at Mayo Clinic)" width="250px"/>
 </p>
 
-> *Recommendation: Show only what is necessary in the navigation menu, and make sure the links are relevant to each category.*
-
-* The billing and payments page has a very cluttered and unappealing design, placing a lot of cognitive strain on the user. (3)
-
-![Billing and payments page](../Images/billing-and-payments.PNG)
-
-> *Recommendation: Clean up the page by putting more spacing between the words, using better hierarchy to organize the information, listing items out in bullet points rather than in paragraph form, and using more relevant and high-quality images for each category.*
-
-* Lastly, the font size on the homepage navigation (and in other random locations throughout the website is small and faint, making it inaccessible for individuals with visual impairments. (3)
-
-> *Recommendation: Increase font sizes and increase contrast of the fonts (in this case, make them darker) to make them readable for seniors and other visually impaired individuals. Create a design guideline to ensure that all font sizes and styles are consistent throughout the website.*
+> *Recommendation: Refine the theme of the app to a smaller list of icons and colors. Only use colors where necessary. For example, the list of icons should be one color.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* If the user clicks "Yes" in the modal window asking if they are requesting a COVID-19 vaccine, they are directed to another page that doesn't immediately explain why they weren't directed to the appointment-making process. Instead, the page they land on is essentially a general About page for COVID-19 vaccines. (2)
+* If a user is unable to log into their account using the menu options at the bottom of the screen, the error message that pops up is uninformative; simply stating “There was an error while trying to log you in.” 
 
 ![After clicking Yes in the modal window box](../Images/clicked-yes.PNG)
 
-> *Recommendation: Immediately explain why they can't make an appointment for COVID-19 vaccines at the time. Make sure the message is visible (e.g. in red and/or bold).*
+> *Recommendation: Provide users some direction in the error message by including a button which says “try a different log-in method.”*
 
 #### 10. Help and Documentation
-* If the user is on the help page, they want detailed information relevant to them. On Mayo Clinic's FAQ page on making appointments, there is simply a huge wall of text that the user must scroll through to find a question they *might* be looking for. (2)
+* The FAQ is short and difficult to access. If by chance your question is not available, there is no simple way to contact the creators. Every “get in touch here” hyperlink automatically routes users to Apple’s “Mail” app. Since I am not signed into that application, and no email address is actually listed, I may not ever get my questions answered. 
 
 <p align="center">
   <img src="../Images/appointment-faq.PNG" alt="Appointment FAQ page" width="500px"/>
 </p>
 
-> *Recommendation: Hide the text under each question to make it easy for users to scan through the possible questions and choose only content they are interested in. Organize the questions in a logical way. Include a downward arrow next to each question to show that information about that question can be found if they click each title. Use bullet points and numbered lists whenever appropriate.*
+> *Recommendation: Provide live chat function to provide immediate help to users. If there is no budget or bandwidth to do so, state the company email at the top of the FAQ, hyperlinked if users prefer to click. *
 
 ### Overall Assessment
 
-The Mayo Clinic website is very large and contains a lot of information, so the main usability issues involve organizing the content and navigation in a way that is understandable for users, especially in terms of consistency & standards, flexibility & efficiency of use, and aesthetics & minimalist design. From an accessibility standpoint, they need to increase their font sizes and contrast between text and background, especially in the main navigation menu but also in other areas of their website. 
+<mark> NOT COMPLETE!! </mark>
 
 
 
