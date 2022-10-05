@@ -38,7 +38,7 @@ Ratings are displayed in parentheses after each usability issue.
 ## Application 1: [Earth Rewards](https://play.google.com/store/apps/details?id=net.earthrewards.app&hl=en_US&gl=US)
 
 <p align="center">
-  <img src="../A01/er_landing.png" alt="Landing Page" width = "300px"/>
+  <img src="../A01/er_landing.png" alt="Landing Page" width = "900px"/>
 </p>
 
 ### About
