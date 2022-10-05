@@ -38,7 +38,7 @@ Ratings are displayed in parentheses after each usability issue.
 ## Application 1: [Earth Rewards](https://play.google.com/store/apps/details?id=net.earthrewards.app&hl=en_US&gl=US)
 
 ### About
-[Earth Rewards](https://earthrewards.net/) is a carbon footprint calculator application that encourages purchases from listed retailers to offset users' own carbon footprint. This app claims to make it easy to "start living a more eco-friendly and sustainable lifestyle," according to the description on their Google Play download page. Although I do not align with the intentions of this app, as it is inherently for-profit, I believe the point system is a similar structure to the one I had in mind for my final project. 
+[Earth Rewards](https://play.google.com/store/apps/details?id=net.earthrewards.app&hl=en_US&gl=US) is a carbon footprint calculator application that encourages purchases from listed retailers to offset users' own carbon footprint. This app claims to make it easy to "start living a more eco-friendly and sustainable lifestyle," according to the description on their Google Play download page. Although I do not align with the intentions of this app, as it is inherently for-profit, I believe the point system is a similar structure to the one I had in mind for my final project. 
 
 My goal with the provided recommendations is to not necessarily alter the intentions of this application, but to minimize the learning curve needed for users to absorb content.
 
@@ -47,9 +47,9 @@ My goal with the provided recommendations is to not necessarily alter the intent
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* Within the "My balance" section, the “Transaction is being processed…” notification is not automatically updated when complete. It is up to the user to reload the page to see any changes in status.  (?)
+* Within the "My balance" section, the “Transaction is being processed…” notification is not automatically updated when complete. It is up to the user to reload the page to see any changes in status.  (1)
 
-* Similarly, within the "Retailers" section, the response from marking a store as “favorited” is not immediate and may lead to rapid, frustrated clicking from the user. (?)
+* Similarly, within the "Retailers" section, the response from marking a store as “favorited” is not immediate and may lead to rapid, frustrated clicking from the user. (1)
 
 <p align="center">
   <img src="../Images/search-query-2.PNG" alt="Search query no immediate results" width = "300px"/>
@@ -58,7 +58,7 @@ My goal with the provided recommendations is to not necessarily alter the intent
 
 > *Recommendation: Display continuous and immediate updates so users are always aware of current app status. Within the "My balance" section, this means automatic updating the page before users feel the need to manually reload. On the other hand, on the "Retailers" page, speed up feedback time in response to clicking the heart.*
 
-* The structure of the app is not clear. Besides the home page, each individual section has no visible tie back to the previous. (?)
+* The structure of the app is not clear. Besides the home page, each individual section has no visible tie back to the previous. (3)
 
 <p align="center">
   <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
@@ -67,7 +67,7 @@ My goal with the provided recommendations is to not necessarily alter the intent
 > *Recommendation: Create a more effective menu bar by optimizing use of icons, decreasing menu size, and apply it to all pages possible so users are always aware of their location in the application.*
 
 #### 2. Match Between System and the Real World
-* There is an overload of jargon and various metrics on the page with no simple method to understand them. Within one section, vocabulary includes “Blockchain,” “Offset CO2,” “Pre-Populated Offsets,” “Custom Offset,” “Quick Offsets,” and “Personal Offsets.” Metrics include “Kg of CO2,” “pints,” “Liters,” “dollars,” “points,” E-missions,” “Lessons,” “Impacts,” and “Earth Rewards.” The feeling of overwhelmingness is immediate and obvious. (?)
+* There is an overload of jargon and various metrics on the page with no simple method to understand them. Within one section, vocabulary includes “Blockchain,” “Offset CO2,” “Pre-Populated Offsets,” “Custom Offset,” “Quick Offsets,” and “Personal Offsets.” Metrics include “Kg of CO2,” “pints,” “Liters,” “dollars,” “points,” E-missions,” “Lessons,” “Impacts,” and “Earth Rewards.” The feeling of overwhelmingness is immediate and obvious. (3)
 
 <p align="center">
   <img src="../Images/search-bar.PNG" alt="Homepage search bar" width = "300px"/>
@@ -90,12 +90,12 @@ My goal with the provided recommendations is to not necessarily alter the intent
 
 > *Recommendation: There exists quite a few instances within the app where users expect outcomes that are not received. First, re-establish functionality to the status-quo by allowing the “x” on the search bar to clear the text in the search space. Second, make the profile picture clickable along with a popup which allows quick profile photo changes. Thirdly, automatically route users to the top of the page, along with an automatic reload when the section icon is clicked.*
 
-* The white space between a menu item and the edge of the phone differs between pages and seemingly at random.  (3)
+* The white space between a menu item and the edge of the phone differs between pages and seemingly at random. (2)
 
 > *Recommendation: Design with visual consistency. All pages should have the same or similar formats, colors, and feel. This will increase trust in the product.*
 
 #### 5. Error Prevention
-* In the “Lessons” section, users can learn about how certain actions contribute to sustainability. Yet it is easy to accidentally swipe out of a lesson and lose progress. 
+* In the “Lessons” section, users can learn about how certain actions contribute to sustainability. Yet it is easy to accidentally swipe out of a lesson and lose progress. (2)
 
 <p align="center">
   <img src="../Images/appointment-modal-window.PNG" alt="Modal window asking about COVID-19 vaccine" width="700px"/>
@@ -103,7 +103,7 @@ My goal with the provided recommendations is to not necessarily alter the intent
 
 > *Recommendation: Despite providing users with a mark that represents progress, users are not able to swipe left of right to continue forwards/backwards with the lesson. Enable users to use the swipe function when swiping in the middle of the page, and allow them to swipe out (with a warning pop up that progress will be lost) only when doing a full swipe from the edge of the page.*
   
-* While clicking around the app I accidentally clicked the “Log out” button. Without warning, I was automatically logged out of my account. Having to go through the whole sign in process again is an immediate deterrent.  
+* While clicking around the app it is easy for users to accidentally click the “Log out” button. Without warning, Users are automatically logged out of their account. Being forced to go through the whole sign in process again is an immediate deterrent and drop-off point. (2) 
 
 <p align="center">
   <img src="../Images/appointment-modal-window.PNG" alt="Modal window asking about COVID-19 vaccine" width="700px"/>
@@ -112,7 +112,7 @@ My goal with the provided recommendations is to not necessarily alter the intent
 > *Recommendation: Provide pop up messages which warn users about outcomes of a possible accidetal action and provides an option to return to the application. This is important because repetitive log-in processes are cumbersome and frustrating.*
 
 #### 6. Recognition Rather Than Recall
-* The Search function acts more like a filter rather than an actual search function. Storefront icons dissapear as letters are typed but it is not obvious what stores are still available. 
+* The Search function acts more like a filter rather than an actual search function. Storefront icons dissapear as letters are typed but it is not obvious what stores are still available. (1)
 
 <p align="center">
   <img src="../Images/diseases-and-conditions.PNG" alt="Diseases and conditions page" width="500px"/>
@@ -121,14 +121,14 @@ My goal with the provided recommendations is to not necessarily alter the intent
 > *Recommendation: As a user types into the search bar, recommend stores in a clickable dropdown menu underneath.*
 
 #### 7. Flexibility and Efficiency of Use
-* The app is static and unchanging. Assuming a user has fulfilled the lengthy learning curve in order to learn how to use this app, there are no options for customization if it is wanted or needed
+* The app is static and unchanging. Assuming a user has fulfilled the lengthy learning curve in order to learn how to use this app, there are no options for customization if it is wanted or needed (1)
 
 ![Homepage of Mayo Clinic showing search box](../Images/homepage.PNG)
 
 > *Recommendation: In addition to currently existing sections in the "Edit Profile" section, create a section for customization and accessibility where users can toggle options on and off.*
 
 #### 8. Aesthetic and Minimalist Design
-* Icons used in the “Offset” section are designed with a variety of unnecessary colors. At first glance, it seems as if the colors contribute to the categorization of the items on the page, but further scrutiny shows it does not. 
+* Icons used in the “Offset” section are designed with a variety of unnecessary colors. At first glance, it seems as if the colors contribute to the categorization of the items on the page, but further scrutiny shows it does not. (2)
 
 <p align="center">
   <img src="../Images/nav-care-at-mayo-clinic.PNG" alt="Navigation menu (Care at Mayo Clinic)" width="250px"/>
@@ -138,14 +138,14 @@ My goal with the provided recommendations is to not necessarily alter the intent
 > *Recommendation: Refine the theme of the app to a smaller list of icons and colors. Only use colors where necessary. For example, the list of icons should be one color.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* If a user is unable to log into their account using the menu options at the bottom of the screen, the error message that pops up is uninformative; simply stating “There was an error while trying to log you in.” 
+* If a user is unable to log into their account using the menu options at the bottom of the screen, the error message that pops up is uninformative; simply stating “There was an error while trying to log you in.” (1)
 
 ![After clicking Yes in the modal window box](../Images/clicked-yes.PNG)
 
 > *Recommendation: Provide users some direction in the error message by including a button which says “try a different log-in method.”*
 
 #### 10. Help and Documentation
-* The FAQ is short and difficult to access. If by chance your question is not available, there is no simple way to contact the creators. Every “get in touch here” hyperlink automatically routes users to Apple’s “Mail” app. Since I am not signed into that application, and no email address is actually listed, I may not ever get my questions answered. 
+* The FAQ is short and difficult to access. If by chance your question is not available, there is no simple way to contact the creators. Every “get in touch here” hyperlink automatically routes users to Apple’s “Mail” app. If users happen to not be signed into that application, and no email address is actually listed, users may not ever get their questions answered. (2)
 
 <p align="center">
   <img src="../Images/appointment-faq.PNG" alt="Appointment FAQ page" width="500px"/>
@@ -167,7 +167,7 @@ From an initial glance, the app looks aesthetic and professional. Stakeholders w
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* Though each of the 5 sections at the bottom of the app, “Activity,” “Challenge,” “Buzz,” “Notifications,” and “Profile” are present no matter what internal page the users are on, there is no obvious landing page.
+* Though each of the 5 sections at the bottom of the app, “Activity,” “Challenge,” “Buzz,” “Notifications,” and “Profile” are present no matter what internal page the users are on, there is no obvious landing page. (2)
 
 <p align="center">
   <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
@@ -176,7 +176,7 @@ From an initial glance, the app looks aesthetic and professional. Stakeholders w
 > *Recommendation: Create an obvious landing page that users would want to spend most of their time on.*
 
 #### 2. Match Between System and the Real World
-* There is quite a lot of new jargon which are not well defined. Points, Buzzes, Actions, Badges, and Medals seems like quite a few metrics. Users may be unsure which one they are trying to increase. 
+* There is quite a lot of new jargon which are not well defined. Points, Buzzes, Actions, Badges, and Medals seems like quite a few metrics. Users may be unsure which one they are trying to increase. (3)
 
 <p align="center">
   <img src="../Images/community-health-center-icons.PNG" alt="Community Health Center icons"/>
@@ -185,12 +185,12 @@ From an initial glance, the app looks aesthetic and professional. Stakeholders w
 *Recommendation: Decrease the vocabulary for sake of an easier learning curve. Have a singular point system where users immediately know what they are attempting to increase.*
 
 #### 3. User Control and Freedom
-* Clicking the “Join Challenge” button threw me into a loading loop with no easy way to exit. I ended up having to swipe out of the app to remove myself from the situation.
+* Clicking the “Join Challenge” button threw users into a loading loop with no easy way to exit. Users will be forced to completely swipe out and reopen the app to remove themselves from the situation. (2)
 
-> *Recommendation: Yes, errors and bugs happen, but a system should be in place so that the page “gives up,” shoots users an error message to try again later, and automatically moves users away from the buggy page.*
+> *Recommendation: Yes, errors and bugs happen, but a system should be in place so that the page “gives up,” displays to users an error message to try again later, and automatically moves them away from the buggy page.*
 
 #### 4. Consistency and Standards
-* It is typical for a full swipe left or right to undo or redo a page. Weirdly enough, this action is supported by only select pages on this application.
+* It is typical for a full swipe left or right to undo or redo a page. Weirdly enough, this action is supported by only select pages on this application. (1)
 
 <p align="center">
   <img src="../Images/nav-bar.PNG" alt="Top Navigation Menu"/>
@@ -199,8 +199,8 @@ From an initial glance, the app looks aesthetic and professional. Stakeholders w
 > *Recommendation: This recommendation is annoying but necessary. Developers need to painstakingly check each page to make sure they all operate similarly. Provide users the option to swipe out of a page on every page*
 
 #### 5. Error Prevention
-* I accidentally “Followed” a user I do not know and was unable to unfollow.  
-* I accidentally posted a “Buzz” which acts a bit like a tweet. Two main issues came out of this action – findability and usability. Even after dedicating quite a bit of time to find this tweet (as it did not show up in the “Trending” page), there was no delete function once tweeted. What if I had mistakenly written something horrible? 
+* If users accidentally “Followed” a user they do not know, there exists no obvious method to unfollow.  
+* If users accidentally posted a “Buzz” which acts a bit like a tweet, two main issues become evident, which are issues with findability and usability. Even after dedicating quite a bit of time to find the public tweet (as it did not show up in the “Trending” page), there exists no delete function once tweeted. What if a user had mistakenly written something offensive? (1)
 
 <p align="center">
   <img src="../Images/behavioral-health-contact.PNG" alt="Contact information for Behavioral Health" width="550px"/>
@@ -208,10 +208,10 @@ From an initial glance, the app looks aesthetic and professional. Stakeholders w
   <img src="../Images/dental-clinic-contact.PNG" alt="Contact information for Dental Clinic" width="550px"/>
 </p>
 
-> *Recommendation: Though icons are relatively large and difficult to accidentally click, there are actions I have done which I would like to reverse. By allowing a click to unfollow (like Instagram) and taking users to the page which they can find their “Buzz” post, users will be able to quickly reverse errors.*
+> *Recommendation: Though icons are relatively large and difficult to accidentally click, there may be actions users have immediately regretted and would like to reverse. By allowing a click to unfollow (like Instagram) and automatically routing users to the page which they can find their “Buzz” post immediately after posting, users will be able to quickly reverse errors.*
 
 #### 6. Recognition Rather Than Recall
-* I do not know nor remember how to achieve “Badges” or “Medals.” I expect that clicking on these sections within my profile would bring me to actions that would earn me these items. 
+* Majority of users do not know nor remember how to achieve “Badges” or “Medals.” Users expect that clicking on these sections within their profile would bring them to actions that would earn them these items. (2)
 
 <p align="center">
   <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
@@ -220,26 +220,27 @@ From an initial glance, the app looks aesthetic and professional. Stakeholders w
 > *Recommendation: Instead of expecting users to read through the FAQ to figure out how to fulfill the criteria to achieve the award, provide clickable greyed-out icons which pop-up a description and progress bar when touched.*
 
 #### 7. Flexibility and Efficiency of Use
-* There is no easy method to scroll up to the top of the feed. I expect that clicking on the “Activity” icon a couple of times would do the trick, but it does not. 
+* There is no easy method to scroll up to the top of the feed. Users might expect that clicking on the “Activity” icon a couple of times would do the trick, but it does not. (1)
 
-> *Recommendation: I am used to automatic responses when clicking through an app quickly. Clicking on a certain icon more than a couple time bring users to the top of the feed in combination with an automatic reload.*
+> *Recommendation: Since users are used to detailed functions in commonly used apps such as Instagram, it is recommended to link multiple clickings on a certain icon to bring users to the top of the feed, along with an automatic reload.*
 
 #### 8. Aesthetics and Minimalist Design
-* There are new icons and vocabulary for every activity. This is excessive and confusing. I am unsure regarding the relevancy of any of these items
+* There are new icons and vocabulary for every activity. This is excessive and confusing and users would be unsure regarding the relevancy of any of these items. (2)
 
 ![CSC Community Health Center homepage](../Images/community-health-center-homepage.PNG)
 
-> *Recommendation: Decrease the icons and vocabulary.*
+> *Recommendation: Decrease the amount of icons and vocabulary so learning curves are optmized and quick.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* I accidentally created a profile to test out the app experience. It wasn’t until I confirmed the creation of the account did I realize there was no way to delete it.
+* Users may create a profile to test out the app experience with no intention to continue using the app. Unfortunatley, there currently exists no way to delete a user's account. This may generate fear regarding privacy and data collection. (3)
 
 > *Recommendation: Allow for relatively easy deletion of an account (with relevant warnings, of course).*
 
 #### 10. Help and Documentation
-* The Help Center simply does not exist. When clicked, the page is blank and says “No articles found.”
+* The Help Center simply does not exist. When clicked, the page is blank and says “No articles found.” (3)
 
 > *Recommendation: Keep all app pages up and running to establish customer trust.*
 
 ### Overall Assessment
 
+Though the overall intention of the app is to create positive influences on sustanability within the BU campus, frustrations and confusions within the app may cause user drop-off which will decrease overall impact. By paying attention to details such as keeping all pages up and running, providing users control and flexibility, and simplifying the point system to shorten and flatten the learning curve, [sustainability's](https://play.google.com/store/apps/details?id=com.cleanbit.joulebug.pbj.bostonu&hl=en_US&gl=US) impact on the campus will surley increase. 
