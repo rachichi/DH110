@@ -55,18 +55,9 @@ My goal with the provided recommendations is to not necessarily alter the intent
 
 * Similarly, within the "Retailers" section, the response from marking a store as “favorited” is not immediate and may lead to rapid, frustrated clicking from the user. (1)
 
-<p align="center">
-  <img src="../Images/search-query-2.PNG" alt="Search query no immediate results" width = "300px"/>
-  <img src="../Images/search-query.png" alt="Search query irrelevant results" width = "300px"/>
-</p>
-
 > *Recommendation: Display continuous and immediate updates so users are always aware of current app status. Within the "My balance" section, this means automatic updating the page before users feel the need to manually reload. On the other hand, on the "Retailers" page, speed up feedback time in response to clicking the heart.*
 
 * The structure of the app is not clear. Besides the home page, each individual section has no visible tie back to the previous. (3)
-
-<p align="center">
-  <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
-</p>
 
 > *Recommendation: Create a more effective menu bar by optimizing use of icons, decreasing menu size, and apply it to all pages possible so users are always aware of their location in the application.*
 
@@ -74,7 +65,9 @@ My goal with the provided recommendations is to not necessarily alter the intent
 * There is an overload of jargon and various metrics on the page with no simple method to understand them. Within one section, vocabulary includes “Blockchain,” “Offset CO2,” “Pre-Populated Offsets,” “Custom Offset,” “Quick Offsets,” and “Personal Offsets.” Metrics include “Kg of CO2,” “pints,” “Liters,” “dollars,” “points,” E-missions,” “Lessons,” “Impacts,” and “Earth Rewards.” The feeling of overwhelmingness is immediate and obvious. (3)
 
 <p align="center">
-  <img src="../Images/search-bar.PNG" alt="Homepage search bar" width = "300px"/>
+  <img src="../A01/er_jargon1.PNG" alt="Jargon1" width = "300px"/>
+  <img src="../A01/er_jargon2.PNG" alt="Jargon2" width = "300px"/>
+  <img src="../A01/er_jargon3.PNG" alt="Jargon3" width = "300px"/>
 </p>
 
 > *Recommendation: Decrease vocabulary to increase learnability. For example, establish one obvious point system, such as "Earth Rewards", and stick with it. For example, Khan Academy (energy points) and Reddit (Reddit karma) are websites/webapps which have found success in using a single point system.*
