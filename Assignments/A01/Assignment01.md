@@ -45,16 +45,16 @@ Ratings are displayed in parentheses after each usability issue.
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* Within the <i> My balance <i> section, the “Transaction is being processed…” notification is not automatically updated when complete. It is up to the user to reload the page to see any changes in status.  (?)
+* Within the "My balance" section, the “Transaction is being processed…” notification is not automatically updated when complete. It is up to the user to reload the page to see any changes in status.  (?)
 
-* Similarly, within the <i> Retailers <i> section, the response from marking a store as “favorited” is not immediate and may lead to rapid, frustrated clicking from the user. (?)
+* Similarly, within the "Retailers" section, the response from marking a store as “favorited” is not immediate and may lead to rapid, frustrated clicking from the user. (?)
 
 <p align="center">
   <img src="../Images/search-query-2.PNG" alt="Search query no immediate results" width = "300px"/>
   <img src="../Images/search-query.png" alt="Search query irrelevant results" width = "300px"/>
 </p>
 
-> *Recommendation: Display continuous and immediate updates so users are always aware of current app status. Within the <i> My balance <i> section, this means automatic updating the page before users feel the need to manually reload. On the other hand, on the <i> Retailers <i> page, speed up feedback time in response to clicking the heart.*
+> *Recommendation: Display continuous and immediate updates so users are always aware of current app status. Within the "My balance" section, this means automatic updating the page before users feel the need to manually reload. On the other hand, on the "Retailers" page, speed up feedback time in response to clicking the heart.*
 
 * The structure of the app is not clear. Besides the home page, each individual section has no visible tie back to the previous. (?)
 
@@ -71,7 +71,7 @@ Ratings are displayed in parentheses after each usability issue.
   <img src="../Images/search-bar.PNG" alt="Homepage search bar" width = "300px"/>
 </p>
 
-> *Recommendation: Decrease vocabulary to increase learnability. For example, establish <i> one <i> obvious point system, such as "Earth Rewards", and stick with it. For example, Khan Academy (energy points) and Reddit (Reddit karma) are websites/webapps which have found success in using a single point system.*
+> *Recommendation: Decrease vocabulary to increase learnability. For example, establish one obvious point system, such as "Earth Rewards", and stick with it. For example, Khan Academy (energy points) and Reddit (Reddit karma) are websites/webapps which have found success in using a single point system.*
 
 #### 3. User Control and Freedom
 * When accidental pop-ups occur, a user's automatic and intuitive action is to click outside of the popup to quickly remove themselves from the situation. Unfortunately, in this app, clicking on the darkened area around the pop-up does nothing but cause frustration. (1)
@@ -154,8 +154,6 @@ Ratings are displayed in parentheses after each usability issue.
 ### Overall Assessment
 
 <mark> NOT COMPLETE!! </mark>
-
-
 
 ## Website 2: [Chinatown Service Center (CSC)](https://www.cscla.org/)
 
