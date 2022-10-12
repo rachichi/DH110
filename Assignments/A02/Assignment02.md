@@ -15,7 +15,7 @@ If users accidentally posted a “Buzz” which acts a bit like a tweet, two mai
 ### Purpose of Usability Testing
 The purpose of this usability test is two fold. First, it serves as a validation exercise to confirm usability issues regarding system status visibility, information overload, and error prevention. Second, it allows researchers to understand underlying mechanisms for why these issues may exist and how one might address them. The following usability test is composed of three separate tasks. 
 
-      1. Join a community
+      1. Task 1: Join a community
 
 Suppose you would like to join and engage with a community to learn more about certain sustainable actions you can take to feel better about your contributions to the environment. 
 * Create a profile to log in.
@@ -23,7 +23,7 @@ Suppose you would like to join and engage with a community to learn more about c
 * Follow the 3 additional users that commented on that post.
 * Join the challenge for this month.
       
-      2. Raise your numbers
+      2. Task 2: Raise your numbers
 
 Suppose your school just announced a prize for the top 5 performers on the October 2022 EcoChallenge. You want to rack up your numbers to increase your chance at winning this prize.
 * Gain 14 points, 5 buzzes, and 1 action by completing the “Bin to Win” category. Include a comment and photo as well. 
@@ -31,7 +31,7 @@ Suppose your school just announced a prize for the top 5 performers on the Octob
 * Gain 1 additional point for the “medal” category. It is up to you what medal to achieve.
 * Navigate to your profile tab to confirm the points have been added to your account.
       
-      3. Reverse your actions
+      3. Task 3: Reverse your actions
 
 Suppose you’d like to clean up your profile and reset it back to the default. You delete comments from your post, comments from items in your feed, and remove yourself from the challenge.
 * Unfollow all the users that you followed in Task 1.
