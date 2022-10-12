@@ -23,7 +23,7 @@ Suppose you would like to join and engage with a community to learn more about c
 * Follow the 3 additional users that commented on that post.
 * Join the challenge for this month.
       
-      2. Raise your numbers: Your school just announced a prize for the top 5 performers on the October 2022 EcoChallenge. You want to rack up your numbers to increase your chance at winning this prize.
+      2. Raise your numbers
 
 Suppose your school just announced a prize for the top 5 performers on the October 2022 EcoChallenge. You want to rack up your numbers to increase your chance at winning this prize.
 * Gain 14 points, 5 buzzes, and 1 action by completing the “Bin to Win” category. Include a comment and photo as well. 
@@ -31,7 +31,8 @@ Suppose your school just announced a prize for the top 5 performers on the Octob
 * Gain 1 additional point for the “medal” category. It is up to you what medal to achieve.
 * Navigate to your profile tab to confirm the points have been added to your account.
       
-      3. Reverse your actions: You’d like to clean up your profile and reset it back to the default. You delete comments from your post, comments from items in your feed, and remove yourself from the challenge.
+      3. Reverse your actions
+
 Suppose you’d like to clean up your profile and reset it back to the default. You delete comments from your post, comments from items in your feed, and remove yourself from the challenge.
 * Unfollow all the users that you followed in Task 1.
 * Delete the comment and photo accommodating your post from Task 2. 
