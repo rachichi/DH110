@@ -15,11 +15,27 @@ If users accidentally posted a “Buzz” which acts a bit like a tweet, two mai
 ### Purpose of Usability Testing
 The purpose of this usability test is two fold. First, it serves as a validation exercise to confirm usability issues regarding system status visibility, information overload, and error prevention. Second, it allows researchers to understand underlying mechanisms for why these issues may exist and how one might address them. The following usability test is composed of three separate tasks. 
 
-      1. Join a community: You would like to join and engage with a community to learn more about certain sustainable actions you can take to feel better about your contributions to the environment.
+      1. Join a community
+
+Suppose you would like to join and engage with a community to learn more about certain sustainable actions you can take to feel better about your contributions to the environment. 
+* Create a profile to log in.
+* Navigate to the trending page and scroll down until you see Mika Yao’s post about eating leftovers and give the original poster a like, comment, and follow. 
+* Follow the 3 additional users that commented on that post.
+* Join the challenge for this month.
       
-      2.  Raise your numbers: Your school just announced a prize for the top 5 performers on the October 2022 EcoChallenge. You want to rack up your numbers to increase your chance at winning this prize.
+      2. Raise your numbers: Your school just announced a prize for the top 5 performers on the October 2022 EcoChallenge. You want to rack up your numbers to increase your chance at winning this prize.
+
+Suppose your school just announced a prize for the top 5 performers on the October 2022 EcoChallenge. You want to rack up your numbers to increase your chance at winning this prize.
+* Gain 14 points, 5 buzzes, and 1 action by completing the “Bin to Win” category. Include a comment and photo as well. 
+* Gain 1 additional point for the “badge” category by completing the “First Badge” achievement.
+* Gain 1 additional point for the “medal” category. It is up to you what medal to achieve.
+* Navigate to your profile tab to confirm the points have been added to your account.
       
       3. Reverse your actions: You’d like to clean up your profile and reset it back to the default. You delete comments from your post, comments from items in your feed, and remove yourself from the challenge.
+Suppose you’d like to clean up your profile and reset it back to the default. You delete comments from your post, comments from items in your feed, and remove yourself from the challenge.
+* Unfollow all the users that you followed in Task 1.
+* Delete the comment and photo accommodating your post from Task 2. 
+* Leave the challenge that you joined in Task 2.
 
 ### Usability Testing Methodology
 The pilot usability testing took place in my apartment in Los Angeles, California. My participant used a laptop to complete the usability testing survey and her iPhone to complete the tasks within the sustabilability@BU mobile app. The survey taken on the laptop was composed of a pre-test questionnaire, three tasks, and a final post-test questionnaire. The Zoom recording video listed below captures the facial expressions and user journey of my participant while she used the sustainability@BU Mobile App. 
