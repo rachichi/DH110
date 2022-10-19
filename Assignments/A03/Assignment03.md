@@ -12,7 +12,7 @@ The hope is that users will see the app as home to one main activity, a place to
 
 ### :white_check_mark: Step 3: Pick observation method(s)
 
-I decided to employ two types of research methods, each with a distinct goal: Analogous Inspiration and Participatory Interaction. Analogous Inspiration involved watching as undergraduate friends navigated through popular social media applications which serve as a parallel situation for how the application might operate. Participatory Interaction, on the other hand, focuses on increasing understanding of habit building within college students and determining pain points to explain why it might be difficult to develop sustainable habits within university. 
+I decided to employ two types of research methods, each with a distinct goal: **Analogous Inspiration** and **Participatory Interaction**. Analogous Inspiration involved watching as undergraduate friends navigated through popular social media applications which serve as a parallel situation for how the application might operate. Participatory Interaction, on the other hand, focuses on increasing understanding of habit building within college students and determining pain points to explain why it might be difficult to develop sustainable habits within university. 
 
 ### :white_check_mark: Steps 4, 5, & 6: Plan the details, Conduct the research, and Organize/Documentation 
 
