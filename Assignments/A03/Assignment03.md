@@ -43,4 +43,5 @@ With Participatory Observation, I felt more at home, as this is closer to tradit
 * Emphasized the need to run changes in habits by her roommates so they could hold each other accountable with efforts toward sustainbaility. Additional conversations might be needed if money was involved. For example, discussing buying a new Brita to save running water.
 * Made the automatic assumption that the landing page of the app was all of the app. Did not continue exploring until prompted to. 
 * Felt the community aspect of the app was more important than the point system. This is potentially due to not fully grasping the concept and purpose of the points on the app. 
+
 In the future it is crucial to interview more people across different demographics. For example, students living in dorms have a very different experience in building sustainable habits compared to students living in apartments. Moreover, I am interested in trends between students and how the app can be optimized to deliver the needs of various personas, which can only be generated after at least 5 interviews. 
