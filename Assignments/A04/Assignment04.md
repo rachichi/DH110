@@ -59,4 +59,5 @@ Much of the success of building a sustainable community comes from the basic fou
 
 ## Reflection
 Creating personas is one of my favorite parts of the UX process, although only when it is based off of concrete, empirical data. Much of this process was putting myself in the shoes of someone that I *think*, based solely on persona experience, would exist within the contraints of our target audience. However, creating user stories, empathy maps, and journey maps was definitely a fun, creative experience which I expect I will implement in my current internship soon.
+
 In the future, with more time, I will improve upon two major aspects of this assignment. First is to conduct user interviews and create user personas based on empirical data. Second, these personas would be created with much stronger personalities with stricter motivations, goals, and challenges. Therefore, the projects that follow would have a much more defined directionality.
