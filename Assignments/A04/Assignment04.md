@@ -7,7 +7,7 @@ Much of the success of building a sustainable community comes from the basic fou
 
 ## 👤 Persona & Empathy Map
 
-### Persona 1: Anabella Chan
+### Persona 1: Anabella Adams
 <p align="center">
   <img src="../A04/Anabella's Persona.png" alt="Anabella's Persona.png" width = "900px"/>
 </p>
