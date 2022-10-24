@@ -1,4 +1,6 @@
-# Assignment 4
+# Assignment 4: UX Storytelling
+
+Rachel Liu | DH-110 | Fall 2022
 
 ## 📖 The Purpose of UX Storytelling
 Much of the success of building a sustainable community comes from the basic foundation of helping our youth develop sustainable habits, one step at a time. In order to do this, app developers must see the world from the users’ perspective, which in this case would be undergraduate students at UCLA. Although operating collectively as one student body, the individuals that make up this community differ drastically in their needs, wants, and user journeys. This assignment on UX Storytelling aims to identify these differences in the form of easy-to-understand stories so that the app can be tailored to best fit their needs.
@@ -6,17 +8,25 @@ Much of the success of building a sustainable community comes from the basic fou
 ## 👤 Persona & Empathy Map
 
 ### Persona 1: Anabella Chan
-*add image here*
+<p align="center">
+  <img src="../A04/Anabella's Persona.png" alt="Anabella's Persona.png" width = "900px"/>
+</p>
 
 #### Anabella's Empathy Map
-*add image here*
+<p align="center">
+  <img src="../A04/Anabella's Empathy Map.png" alt="Anabella's Empathy Map" width = "900px"/>
+</p>
 
 
 ### Persona 2: Ahmed Rafiq
-*add image here*
+<p align="center">
+  <img src="../A04/Ahmed's Persona.png" alt="Ahmed's Persona.png" width = "900px"/>
+</p>
 
 #### Ahmed's Empathy Map
-*add image here*
+<p align="center">
+  <img src="../A04/Ahmed's Empathy Map.png" alt="Ahmed's Empathy Map" width = "900px"/>
+</p>
 
 ## 🗺 Scenarios & Journey Map
 
@@ -28,7 +38,9 @@ Much of the success of building a sustainable community comes from the basic fou
 > Just then, she hears running footsteps, the urgent jingling of keys, and her roommate bursts through the door. “You’re not busy right?” She asks, out of breath. “Wanna join this sustainability challenge with me? Promise it’ll be fun,” she urges. Anabella, of course, is very obviously not busy, and so she reluctantly follows her roommate’s instructions to download Sustainiversity, an app where UCLA students can earn points from participating in frequent sustainability challenges. After downloading the app, she logs in through SSO, automatically rerouting her to the official UCLA version of the app. She is prompted to build a profile, where she enjoys the process of adding her name, choosing a flattering profile photo, typing out a witty bio, and toggling the profile privacy button to “Public”. After clicking “Save,” she is routed to an explore page. Before she can scroll through the collection of silly images posted by familiar faces she had recognized from walking down BruinWalk, a popup quickly notifies her that the “Residence Hall Challenge is happening now!” with options below to “Close” or  “Join Now.” She clicks “Join Now.” A simple checklist of sustainable actions appears, all of which can be completed within and around the dorm building. While Anabella and her roommate run back and forth along the hallways to check leaking faucets and shower heads in the communal bathroom, turn off unnecessary lights, and recycle the pizza boxes they got at Epicuria, they convince more and more curious freshmen to join in on the effort. By the time the challenge is complete, Anabella is teeming with excitement. She feels closer to not only her roommate, but also to the other residents on the floor. In fact, this newfound group is already planning on participating in another sustainability challenge next week together, which is to go picnicking on campus with reusable containers.  
 
 #### Anabella's Journey Map
-*add image here*
+<p align="center">
+  <img src="../A04/Anabella's Journey Map.png" alt="Landing Page" width = "900px"/>
+</p>
 
 
 ### 2. Ahmed's Scenario & Journey Map
@@ -43,7 +55,9 @@ That night, after another long day at work, he decides to take a peek around the
 He clicks out of the explore page using the navigation bar towards the bottom of the screen and presses on the planning icon. The app prompts him to choose at least [three sustainable development goals](https://sdgs.un.org/goals) he is interested in acting upon. Once chosen, he is asked to click one of three additional options: Dedicate 5 minutes/day, 10 minutes/week or 1 hour/month. He chooses 5 minutes/day because he wants to build a daily habit. Immediately, he is presented with a list of easy-to-read and easy-to-do activities that he can do in 5 minutes or less. Over the course of the week, Ahmed diligently dedicates his 5 minutes a day to fixing leaky faucets, scrapping the freezer, or unplugging electronics before his weekend getaways with his partner. It’s easy to fit into his busy schedule because the app notifies him of this daily task every day when he is at home. Ahmed feels accomplished for not only contributing to a sustainable community, but also for being able to consistently deliver on this habit.
 
 #### Ahmed's Journey Map
-*add image here*
+<p align="center">
+  <img src="../A04/Ahmed's Journey Map.png" alt="Ahmed's Journey Map" width = "900px"/>
+</p>
 
 ## Reflection
 Creating personas is one of my favorite parts of the UX process, although only when it is based off of concrete, empirical data. Much of this process was putting myself in the shoes of someone that I *think*, based solely on persona experience, would exist within the contraints of our target audience. However, creating user stories, empathy maps, and journey maps was definitely a fun, creative experience which I expect I will implement in my current internship soon.
