@@ -1,4 +1,4 @@
-# Assignment 2: Usability Evaluation with Users
+# Assignment 3: Usability Evaluation with Users
 
 Rachel Liu | DH-110 | Fall 2022
 
