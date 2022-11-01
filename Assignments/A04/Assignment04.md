@@ -31,6 +31,9 @@ Much of the success of building a sustainable community comes from the basic fou
 ## 🗺 Scenarios & Journey Map
 
 ### 1. Anabella's Scenario & Journey Map
+#### Feature #1
+Exciting on-campus socialization traditions with a sustainable twist to encourage community building. 
+
 #### Why Anabella is using this product
 > Anabella lays on the floor of her classic triple as she mindlessly cycles through the seemingly endless social media applications in her phone. It’s her first quarter at UCLA, and to be completely honest, she’s not doing too great. It is her first time ever away from home; the first time ever she’s had to leave friends and family behind. She was so pumped to finally have a cool new group of friends outside her small town bubble back home. But, it turns out, making new friends is not the easiest. And to top it all off, she was rejected from her dream sorority. To her, it really couldn’t get any worse. She looks around the room to check it is empty before she lets out a dramatic, miserable sign. She chuckles. Of course it’s empty. Though her roommates meant well, Anabella couldn’t help but feel a tinge of jealousy. Within the first couple weeks, both her roommates had already found their “group,” and got into their dream sororities. They’re never home. For the millionth time, Anabella wishes that she could just fly home and feel the warm fuzzies of her mother’s embrace
 
@@ -44,6 +47,9 @@ Much of the success of building a sustainable community comes from the basic fou
 
 
 ### 2. Ahmed's Scenario & Journey Map
+#### Feature #2
+Personalized action plan (Different time investments: 5 minutes/day, 10 minutes/week, 1 hour/month)
+
 #### Why Ahmed is using this product
 > For the third time this week, Ahmed is working overtime for his environmental law firm. He doesn’t mind (it’s good pay), except for the fact that his partner is fuming at him for running late to their date – again. His recent decision to take on more hours at his internship was based on two reasons. First is that he simply doesn’t feel the same excitement for UCLA as he did freshman and sophomore year – although that might be due to the pandemic. Second is that he wants to feel like making some kind of impact on the Earth he calls home. All his environmental classes has stressed him out about the ticking time bomb of irriversable climate change. Recently, Ahmed has been thinking that contributing to sustainability efforts through environmental law is a bit of an investment before he can actually make a difference, and wants to begin developing habits to feel an immediate contribution. Unfortunately, he feels overwhelmed by the amount of work on his plate and simply does not have the time to create his own action plan to accomplish this goal
 
