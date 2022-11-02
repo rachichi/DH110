@@ -75,7 +75,7 @@ Please Note: Improvements were made to this paper prototype. See [Wireflow Itera
   <img src="../A05/V1PrototypeTesting.png" alt="V1PrototypeTesting.png" width = "900px"/>
 </p>
 
-[Iteration 1 Prototype Testing Screen Recording](https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing) (begin 01:20) : https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing
+[Iteration 1 Prototype Testing Screen Recording](https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing) (begin 01:20)
 
 ### Observations:
 #### Before the walkthrough
