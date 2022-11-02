@@ -19,7 +19,7 @@ The purpose of low-fidelity prototyping is to optimize the user journey by analy
 * Task 2: Learn more about the sustainability goals 
 * Task 3: Complete the Daily Challenge
 
-Note that Task 3, Complete the Daily Challenge, is a combination of the two tasks previously mentioned in the Persona + Scenarios assignment. Further research illustrated that implementing two completely separate features may lead to a more difficult learning curve. 
+Please Note: Task 3 is a combination of the two tasks previously mentioned in the Persona + Scenarios assignment. Further research illustrated that implementing two completely separate features may lead to a more difficult learning curve. 
 
 ## Wireframes
 The following is a complete list of tasks that the (paper) prototype of my system supported:
@@ -65,17 +65,11 @@ Please Note: Improvements were made to this paper prototype. See [Wireflow Itera
 ## Testing the Wireflow
 
 ### The following list are the tasks that were requested of the user:
-Task
-Completed?
-1
-Pink: Log in to your profile. 
-This task was successfully completed.
-2
-Green: Complete the daily challenge.
-This task was successfully completed.
-3
-Blue: Learn more about the sustainability goals. 
-The tester landed on the correct page but clicked the wrong button to get there. 
+| Number | Task | Completed? |
+|---|---|---|
+| 1 | Pink: Log in to your profile.  | This task was successfully completed. |
+| 2 | Green: Complete the daily challenge. | This task was successfully completed. |
+| 3 | Blue: Learn more about the sustainability goals. | The tester landed on the correct page but clicked the wrong button to get there. |
 
 
 ### Observations:
@@ -89,6 +83,10 @@ The tester landed on the correct page but clicked the wrong button to get there.
 * Did not enjoy “leaving” the app when completing Task 3. Felt that simple action made the app untrustworthy. 
 * Expects to see the “Learn More” section include a mission statement and a story.
 * Since flow was similar to that of BeReal, learning curve was minimal
+
+<p align="center">
+  <img src="../A05/Evidence of Prototype Testing.png" alt="Evidence of Prototype Testing.png" width = "900px"/>
+</p>
 
 [Iteration 1 Prototype Testing Screen Recording](https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing) (begin 01:20) : https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing
 
@@ -116,45 +114,28 @@ However, regardless of this difference, I did feel like the wireflow testing pro
 I ended up acting on the feedback I received from prototype testing, with the written and visual results split between the observation section of Testing the wireflow and Wireflow Version 2. I have included a more cohesive list of problem and solution below: 
 
 #### To improve the experience of the tester:
+| Number | Problem | Solution |
+|---|---|---|
+| 1 | The tester was overwhelmed by the amount of frames handed to her at first glance. | In the future I will provide some background into the purpose of prototype testing and reinforce the fact that the tester is not being tested to decrease nervousness. |
+| 2 | The tester felt “thrown into the deep end” as she did not understand what the mobile application was supposed to accomplish, even when requested to complete specific tasks. | In the future I would prepare a short blurb about the basic purpose of the app. |
+| 3 | The tester was confused by the inconsistency of the narrative of the hypothetical user between tasks.  | In the future I would prepare scenarios to provide context to the requested tasks especially when the wireframes used during the tasks are not necessarily related (Example: Hypothetical new user versus hypothetical old user).
 
-Problem
-Solution
-1
-The tester was overwhelmed by the amount of frames handed to her at first glance
-In the future I will provide some background into the purpose of prototype testing and reinforce the fact that the tester is not being tested to decrease nervousness.
-2
-The tester felt “thrown into the deep end” as she did not understand what the mobile application was supposed to accomplish, even when requested to complete specific tasks. 
-In the future I would prepare a short blurb about the basic purpose of the app.
-3
-The tester was confused by the inconsistency of the narrative of the hypothetical user between tasks. 
-In the future I would prepare scenarios to provide context to the requested tasks especially when the wireframes used during the tasks are not necessarily related (Example: Hypothetical new user versus hypothetical old user).
+For the sake of this wireflow, though, I removed the “Build you Profile” page to stay consistent with the narrative that this user has previously existed.  |
 
-For the sake of this wireflow, though, I removed the “Build you Profile” page to stay consistent with the narrative that this user has previously existed. 
+#### To improve the prototype:
+| Number | Problem | Solution |
+|---|---|---|
+| 1 | The tester felt that the handwritten paper prototype was a bit difficult to read. She ended up having to stop and ask for clarification. | I redesigned the paper prototype in Figma and changed unneeded text to redacted font. |
+| 2 | The user did not enjoy the hypothetical experience of leaving the app when completing Task 2. She felt that leaving the app to find more information about how to use the app was an untrustworthy sign. 
 
-#### To improve the prototype
-
-
-Problem
-Solution
-1
-The tester felt that the handwritten paper prototype was a bit difficult to read. She ended up having to stop and ask for clarification. 
-I redesigned the paper prototype in Figma and changed unneeded text to redacted font. 
-
-
-2
-The user did not enjoy the hypothetical experience of leaving the app when completing Task 2. She felt that leaving the app to find more information about how to use the app was an untrustworthy sign. 
-
-Also, after clicking into the (?) button, the tester expected to see the “Learn More” section include a mission statement and a story.
-I built out what the help pages might look like within the app (does not link out externally).
-3
-The user struggled to find the link to more information and ended up clicking one of the “Share On” buttons to take her to the more information page.
-I removed the text under the “Profile” page which links externally to unep.org. This was not a good location for any links.
+Also, after clicking into the (?) button, the tester expected to see the “Learn More” section include a mission statement and a story. | I built out what the help pages might look like within the app (does not link out externally). |
+| 3 | The user struggled to find the link to more information and ended up clicking one of the “Share On” buttons to take her to the more information page. | I removed the text under the “Profile” page which links externally to unep.org. This was not a good location for any links.
 
 I removed the “Share On” button below the “View completed challenges” page to decrease confusion. 
 
 I changed the (i) button to (?) on the navigation bar to make the purpose of the icon more obvious.
 
-I connected the question mark on the navigation bar directly to the “Learn More” page to improve intuitiveness. 
+I connected the question mark on the navigation bar directly to the “Learn More” page to improve intuitiveness. |
 
 
 Overall, I learned a great deal from this experience and feel prepared for any future wireframing endeavors! 
