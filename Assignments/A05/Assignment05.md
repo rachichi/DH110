@@ -29,14 +29,22 @@ The following is a complete list of tasks that the (paper) prototype of my syste
 ** The Daily Challenge could be completed through various pathways: 1) Notification banner on the phone lock or home screen, 2) The [+] button on the navigation bar, 3) Clicking on the “complete daily task to view photos” written above the blurred photos on the home page, or 4) Clicking on the “Today’s challenge: Reuse a Plastic bag” banner above the photos on the home page. 
 4. View previously completed challenges 
 
+<p align="center">
+  <img src="../A05/V1Wireframe.png" alt="V1Wireframe.png" width = "900px"/>
+</p>
+
 ## Wireflows
 
 ### Wireflow Iteration 1
 All 4 tasks are included in the wireflow shown below. The blue lines demonstrate all possible interactions with the prototype: 
 1. Sign in through SSO
 2. Learn more about the sustainability goals 
-Complete the Daily Challenge and share an image to only friends. 
-View your previously completed challenges
+3. Complete the Daily Challenge and share an image to only friends. 
+4. View your previously completed challenges
+
+<p align="center">
+  <img src="../A05/V1Wireflow.png" alt="V1Wireflow.png" width = "900px"/>
+</p>
 
 Please Note: Improvements were made to this paper prototype. See [Wireflow Iteration 2](https://github.com/rachichi/DH110-22F/blob/main/Assignments/A05/Assignment05.md#wireflow-iteration-2) for an updated iteration.
 
@@ -49,6 +57,10 @@ Please Note: Improvements were made to this paper prototype. See [Wireflow Itera
 * Build out what the help pages might look like within the app (does not link out externally).
 * Removed the text under the “Profile” page which links externally to unep.org. This was not a good location for any links.  
 * Removed the “Share On” button below the “View completed challenges” page to decrease confusion
+
+<p align="center">
+  <img src="../A05/V2Wireflow.png" alt="V2Wireflow.png" width = "900px"/>
+</p>
 
 ## Testing the Wireflow
 
@@ -78,7 +90,11 @@ The tester landed on the correct page but clicked the wrong button to get there.
 * Expects to see the “Learn More” section include a mission statement and a story.
 * Since flow was similar to that of BeReal, learning curve was minimal
 
-Version 1 Prototype Testing: https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing
+[Iteration 1 Prototype Testing Screen Recording](https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing) (begin 01:20) : https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing
+
+<p align="center">
+  <img src="../A05/V1PrototypeTesting.png" alt="V1PrototypeTesting.png" width = "900px"/>
+</p>
 
 ## Reflection 
 
@@ -86,6 +102,10 @@ Version 1 Prototype Testing: https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbw
 The process of creating my low fidelity prototype was far from smooth and vastly different from my expectation but I gained quite a lot of knowledge. The greatest mistake I made in the beginning of the prototyping process was creating a paper prototype that was much too complicated and detailed. 
 The first mistake was that because two features had come out of the previous assignment with the personas and scenarios, I was racking my brain to figure out how to visually incorporate these two very distinct areas into one cohesive app. The answer, I eventually accepted, was that this simply was not possible. I scraped the initial idea and instead, combined the two features into one to create the “Daily Challenge.” The young college student persona would fulfill her need of a sense of belonging through the social aspect of the app, while the older, more mature persona would achieve his habit building need through the daily notification.
 The second mistakes were smaller. I had initially attempted to create a much more social, Instagram-like experience on the left to address the wants of the young undergraduate student persona, and also experimented with changing themes of the daily task according to the 17 sustainable development goals on the right. Both these wireframes are included below and were not used into the final interactions, but instead a demonstration of growth. 
+
+<p align="center">
+  <img src="../A05/RemovedFrames.png" alt="RemovedFrames.png" width = "900px"/>
+</p>
 
 ### Testing my prototype
 Luckily, the process of testing my prototype went much smoother than the process of creating my prototype. 
@@ -96,7 +116,6 @@ However, regardless of this difference, I did feel like the wireflow testing pro
 I ended up acting on the feedback I received from prototype testing, with the written and visual results split between the observation section of Testing the wireflow and Wireflow Version 2. I have included a more cohesive list of problem and solution below: 
 
 #### To improve the experience of the tester:
-
 
 Problem
 Solution
