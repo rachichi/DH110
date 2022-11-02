@@ -71,6 +71,11 @@ Please Note: Improvements were made to this paper prototype. See [Wireflow Itera
 | 2 | Green: Complete the daily challenge. | This task was successfully completed. |
 | 3 | Blue: Learn more about the sustainability goals. | The tester landed on the correct page but clicked the wrong button to get there. |
 
+<p align="center">
+  <img src="../A05/V1PrototypeTesting.png" alt="V1PrototypeTesting.png" width = "900px"/>
+</p>
+
+[Iteration 1 Prototype Testing Screen Recording](https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing) (begin 01:20) : https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing
 
 ### Observations:
 #### Before the walkthrough
@@ -86,12 +91,6 @@ Please Note: Improvements were made to this paper prototype. See [Wireflow Itera
 
 <p align="center">
   <img src="../A05/Evidence of Prototype Testing.png" alt="Evidence of Prototype Testing.png" width = "900px"/>
-</p>
-
-[Iteration 1 Prototype Testing Screen Recording](https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing) (begin 01:20) : https://drive.google.com/file/d/1Is2kHfBpWMimhcIWbwqSL1j3RIXk8THW/view?usp=sharing
-
-<p align="center">
-  <img src="../A05/V1PrototypeTesting.png" alt="V1PrototypeTesting.png" width = "900px"/>
 </p>
 
 ## Reflection 
