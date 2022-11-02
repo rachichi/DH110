@@ -38,7 +38,7 @@ All 4 tasks are included in the wireflow shown below. The blue lines demonstrate
 Complete the Daily Challenge and share an image to only friends. 
 View your previously completed challenges
 
-Please Note: Improvements were made to this paper prototype. See Wireflow Iteration 2 for an updated iteration.
+Please Note: Improvements were made to this paper prototype. See [Wireflow Iteration 2](https://github.com/rachichi/DH110-22F/blob/main/Assignments/A05/Assignment05.md#wireflow-iteration-2) for an updated iteration.
 
 ### Wireflow Iteration 2
 #### Improvements have been outlined below:
