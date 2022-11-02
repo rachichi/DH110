@@ -81,13 +81,13 @@ Please Note: Improvements were made to this paper prototype. See [Wireflow Itera
 #### Before the walkthrough
 * Overwhelmed by the amount of frames at first glance
 * Wanted to know what the app was supposed to do
-* During the walkthrough
+#### During the walkthrough
 * Began Task 1 from the notification page.
 * Became confused when after seemingly creating a new profile, the logged-in user already had completed actions within the app.
 * Paper prototype was a bit difficult to read. Participant had to stop and ask for clarification. 
 * Did not enjoy “leaving” the app when completing Task 3. Felt that simple action made the app untrustworthy. 
 * Expects to see the “Learn More” section include a mission statement and a story.
-* Since flow was similar to that of BeReal, learning curve was minimal
+* Since flow was similar to that of BeReal, learning curve was minimal.
 
 <p align="center">
   <img src="../A05/Evidence of Prototype Testing.png" alt="Evidence of Prototype Testing.png" width = "900px"/>
