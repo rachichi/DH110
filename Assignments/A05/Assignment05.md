@@ -119,7 +119,6 @@ I ended up acting on the feedback I received from prototype testing, with the wr
 | 1 | The tester was overwhelmed by the amount of frames handed to her at first glance. | In the future I will provide some background into the purpose of prototype testing and reinforce the fact that the tester is not being tested to decrease nervousness. |
 | 2 | The tester felt “thrown into the deep end” as she did not understand what the mobile application was supposed to accomplish, even when requested to complete specific tasks. | In the future I would prepare a short blurb about the basic purpose of the app. |
 | 3 | The tester was confused by the inconsistency of the narrative of the hypothetical user between tasks.  | In the future I would prepare scenarios to provide context to the requested tasks especially when the wireframes used during the tasks are not necessarily related (Example: Hypothetical new user versus hypothetical old user).
-
 For the sake of this wireflow, though, I removed the “Build you Profile” page to stay consistent with the narrative that this user has previously existed.  |
 
 #### To improve the prototype:
@@ -130,12 +129,8 @@ For the sake of this wireflow, though, I removed the “Build you Profile” pag
 
 Also, after clicking into the (?) button, the tester expected to see the “Learn More” section include a mission statement and a story. | I built out what the help pages might look like within the app (does not link out externally). |
 | 3 | The user struggled to find the link to more information and ended up clicking one of the “Share On” buttons to take her to the more information page. | I removed the text under the “Profile” page which links externally to unep.org. This was not a good location for any links.
-
 I removed the “Share On” button below the “View completed challenges” page to decrease confusion. 
-
 I changed the (i) button to (?) on the navigation bar to make the purpose of the icon more obvious.
-
 I connected the question mark on the navigation bar directly to the “Learn More” page to improve intuitiveness. |
-
 
 Overall, I learned a great deal from this experience and feel prepared for any future wireframing endeavors! 
