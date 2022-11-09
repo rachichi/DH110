@@ -40,7 +40,7 @@ Impression Test: https://drive.google.com/file/d/1I8Nt79AX4X7O6Pu17dlplzdOuSQMaO
 Since the tester was exposed to a side page where the navigation bar was not present, she was hoping that there would be some kind of menu so she knows where she is on the application. However, she was able to understand that this was a side page and that the arrow point back on the top left would take her back to the home page (where there would be a navigation bar). 
 
 #### Typography variations
-* Option 2 and 3 look similar, stands out more because more professional. The header stands out more and is more visually appealing. 1 looks more bold. 2 is a lot bolder and creates more of an impact. Enjoys the button of 3 where the spacing is further apart a nd takes up the whole button space.
+* The user believed that Option 2 (Newsreader and News Cycle) and 3 (Domine and Roboto) look similar, but compared to Option 1 (Work Sans and Open Sans) they both looked massively more professional. This was due to the fact that both Option 2 and 3's headers stood out more, along with inherently being more visually appealing. The tester ultimately felt Option 2 was her favorite because it was the most bold and created more of an impact in her visual field. However, she enjoyed the button of Option 3 where the spacing of each letter is further apart and took up the whole button space.
 
 #### Shape
 * The tester enjoyed the round shape but did not want the button to be completely circular. The reasoning behind this was because she was so accustomed to the iPhone UI and preferred the apps she was using on the device to match that experience. Since Apple uses a roundness similar to the 14.5px size variation in the prototype testing, this was also the tester’s preference. 
