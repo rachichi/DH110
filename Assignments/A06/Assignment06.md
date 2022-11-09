@@ -58,6 +58,10 @@ Since the tester was exposed to a side page where the navigation bar was not pre
   <img src="../A06/StyleGuide.jpg" alt="StyleGuide.jpg" width = "900px"/>
 </p>
 
+<p align="center">
+  <img src="../A06/Final Variations.png" alt="Final Variations.png" width = "900px"/>
+</p>
+
 ### Decision Explanations
 #### Typography
 * I compared three different fonts: 1) Work Sans and Open Sans, 2) Newsreader and News Cycle, and finally, 3) Domine and Roboto. Though I felt like each of the header and body texts independently meshed well, I much preferred fonts 2) and 3). This was due to the “fancier” type of the 2nd and 3rd fonts, which generated a more professional and reputable environment. However, unlike the user who I had do the impression test, I preferred font 3) to font 2). Font 2 was much too “newspaper” looking, and was even represented in the name. The environment that should be generated with this chosen typography is not one of complete professionalism. Instead, it should convey playfulness but also reputability and reliability. I believe only font 3) Domine and Roboto, was able to successfully complete this task. Sizes were chosen by beginning with the default fault sizes and characteristics in Google Fonts, then moving them into the layout to understand what had the greatest impact for the header, was the most readable for the body, and looked the most aesthetically pleasing for the button. 
