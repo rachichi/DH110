@@ -5,9 +5,9 @@ Rachel Liu | DH-110 | Fall 2022
 ## Description of project 
 This project integrates daily sustainability challenges into BeReal’s simple social media experience to inspire undergraduate students at UCLA to take small steps toward building a sustainable community. In order to best approach this challenge, users must slowly develop daily sustainable habits that will eventually become ingrained into their lives, and ultimately, their community. To address the needs of the two personas described in previous assignments, BeReal will add a “Sustainiversity” toggle in Settings which adds exciting features. The purpose of interface design is to take bare-bones wireframes and further develop them into prototypes through various typography, shape, color, and layout comparisons. 
 
-Example Wireframe: https://www.figma.com/file/598DhYAZaOiQ3X2sfrDZvf/Assignment-06---Interface-Design-System?node-id=0%3A1
-Prototype tool page: https://www.figma.com/proto/598DhYAZaOiQ3X2sfrDZvf/Assignment-06-Interface-Design-System?node-id=0%3A1&viewport=-505%2C489%2C0.11&scaling=min-zoom&starting-point-node-id=30%3A1917
-Full Figma File: https://www.figma.com/file/598DhYAZaOiQ3X2sfrDZvf/Assignment-06---Interface-Design-System
+* Example Wireframe: https://www.figma.com/file/598DhYAZaOiQ3X2sfrDZvf/Assignment-06---Interface-Design-System?node-id=0%3A1
+* Prototype tool page: https://www.figma.com/proto/598DhYAZaOiQ3X2sfrDZvf/Assignment-06-Interface-Design-System?node-id=0%3A1&viewport=-505%2C489%2C0.11&scaling=min-zoom&starting-point-node-id=30%3A1917
+* Full Figma File: https://www.figma.com/file/598DhYAZaOiQ3X2sfrDZvf/Assignment-06---Interface-Design-System
 
 ## Screen design
 ### Three typographic variations
