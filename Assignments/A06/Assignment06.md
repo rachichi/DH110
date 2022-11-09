@@ -12,22 +12,22 @@ Full Figma File: https://www.figma.com/file/598DhYAZaOiQ3X2sfrDZvf/Assignment-06
 ## Screen design
 ### Three typographic variations
 <p align="center">
-  <img src="../A06/V1Wireframe.png" alt="V1Wireframe.png" width = "900px"/>
+  <img src="../A06/Typography Variations.png" alt="Typography Variations.png" width = "900px"/>
 </p>
 
 ### Three shape variations
 <p align="center">
-  <img src="../A06/V1Wireframe.png" alt="V1Wireframe.png" width = "900px"/>
+  <img src="../A06/Size Variation.png" alt="Size Variation.png" width = "900px"/>
 </p>
 
 ### Two color schemes
 <p align="center">
-  <img src="../A06/V1Wireframe.png" alt="V1Wireframe.png" width = "900px"/>
+  <img src="../A06/Light and Dark Mode.png" alt="Light and Dark Mode.png" width = "900px"/>
 </p>
 
 ### Layout 
 <p align="center">
-  <img src="../A06/V1Wireframe.png" alt="V1Wireframe.png" width = "900px"/>
+  <img src="../A06/Layout Test.png" alt="Layout Test.png" width = "900px"/>
 </p>
 
 ## Impression test
@@ -50,12 +50,12 @@ Since the tester was exposed to a side page where the navigation bar was not pre
 
 ## Accessibility (color-contrast) check
 <p align="center">
-  <img src="../A06/V1Wireframe.png" alt="V1Wireframe.png" width = "900px"/>
+  <img src="../A06/Color Contrast Test.png" alt="Color Contrast Test.png" width = "900px"/>
 </p>
 
 ## Design System
 <p align="center">
-  <img src="../A06/V1Wireframe.png" alt="V1Wireframe.png" width = "900px"/>
+  <img src="../A06/StyleGuide.jpg" alt="StyleGuide.jpg" width = "900px"/>
 </p>
 
 ### Decision Explanations
