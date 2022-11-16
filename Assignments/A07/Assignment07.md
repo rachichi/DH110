@@ -21,9 +21,9 @@ There are 7 total tasks that can be completed by the user:
 
 [Figma File Iteration 2](https://www.figma.com/file/99SOIyRfNIJEeT6Hw2gy2U/Assignment-07---Hi-Fi-Prototype?node-id=135%3A2074&t=v5MY2IgjfDa9ApQ7-1)
 
-[Task 1: Complete the Daily Challenge from the Home Page.](https://www.figma.com/proto/99SOIyRfNIJEeT6Hw2gy2U/Assignment-07---Hi-Fi-Prototype?page-id=158%3A8484&node-id=158%3A8601&viewport=1403%2C894%2C0.26&scaling=scale-down&starting-point-node-id=158%3A8601&show-proto-sidebar=1)
+[Interactive Prototype Task 1: Complete the Daily Challenge from the Home Page.](https://www.figma.com/proto/99SOIyRfNIJEeT6Hw2gy2U/Assignment-07---Hi-Fi-Prototype?page-id=158%3A8484&node-id=158%3A8601&viewport=1403%2C894%2C0.26&scaling=scale-down&starting-point-node-id=158%3A8601&show-proto-sidebar=1)
 
-[Task 2: Complete the Daily Challenge from the notification on your lock screen.](https://www.figma.com/proto/99SOIyRfNIJEeT6Hw2gy2U/Assignment-07---Hi-Fi-Prototype?page-id=158%3A8484&node-id=158%3A8685&viewport=1403%2C894%2C0.26&scaling=scale-down&starting-point-node-id=158%3A8685&show-proto-sidebar=1)
+[Interactive Prototype Task 2: Complete the Daily Challenge from the notification on your lock screen.](https://www.figma.com/proto/99SOIyRfNIJEeT6Hw2gy2U/Assignment-07---Hi-Fi-Prototype?page-id=158%3A8484&node-id=158%3A8685&viewport=1403%2C894%2C0.26&scaling=scale-down&starting-point-node-id=158%3A8685&show-proto-sidebar=1)
 * Note: All 7 tasks can be completed through either Task 1 and Task 2 prototypes. See Wireflow section for color-coded walkthroughs of each of the 7 tasks.
 
 ## Wireflow
