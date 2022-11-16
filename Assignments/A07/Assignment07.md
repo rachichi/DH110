@@ -30,9 +30,13 @@ There are 7 total tasks that can be completed by the user:
 
 [Figma Wireflow Page](https://www.figma.com/file/99SOIyRfNIJEeT6Hw2gy2U/Assignment-07---Hi-Fi-Prototype?node-id=158%3A6299)
 
+### Complete Wireflow
+
 <p align="center">
   <img src="../A07/Complete Wireflow.png" alt="Complete Wireflow.png" width = "900px"/>
 </p>
+
+### Wireflow Color-Coded by Task
 
 <p align="center">
   <img src="../A07/Wireflow Color-Coded by Task.png" alt="Wireflow Color-Coded by Task.png" width = "900px"/>
