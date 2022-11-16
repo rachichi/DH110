@@ -52,7 +52,7 @@ Will be completed in class.
 
 [Audio Recording](https://drive.google.com/file/d/1a6g9iY2lQkQnpWda4sAb_zTFZiiARQsU/view?usp=sharing)
 
-### Results from Iteration 1
+### Feedback and Solutions from Iteration 1 Usability Testing
 | Number | Problem | Solution |
 |---|---|---|
 | 1 | Header text is blocked by mobile constraints at the top of the page.  | All header components were moved 41 pixels down so that it would be visible below the mobile constraints. |
