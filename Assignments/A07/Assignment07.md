@@ -44,7 +44,7 @@ There are 7 total tasks that can be completed by the user:
 
 ## Cognitive Walkthrough
 
-Will be completed in class.
+Completed in class and included in Assignment 8.
 
 ## Usability Test
 
