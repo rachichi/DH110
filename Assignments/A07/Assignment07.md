@@ -44,10 +44,10 @@ There are 7 total tasks that can be completed by the user:
 
 ## Cognitive Walkthrough
 
-## Original Peer Comments 
+### Original Peer Comments 
 [See comments here.](https://docs.google.com/document/d/1RTbBBYpsckDoMIDoNYANXpKnlFdnSJZ2Z1kzfHdpOIo/edit)
 
-## Findings
+### Findings
 The cognitive walkthrough was conducted in class where within 30 mintes, two fellow classmates completed a single task (Task 1) and in addition, went out of their way to try and "break the navigation". The general findings are listed below:
 1. The purpose of the mobile application was obvious from the home screen. It was seen correctly as a "BeReal clone! Sustainable version!" where users could complete "daily sustainable tasks" and "post pictures relating to challenges."
 2. Interface was intuitive, "nice, simple, and clean" with a "good feedback loop"
