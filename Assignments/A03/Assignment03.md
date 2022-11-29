@@ -1,4 +1,4 @@
-# Assignment 3: Usability Evaluation with Users
+# Assignment 3: Contexual Inquiry
 
 Rachel Liu | DH-110 | Fall 2022
 
